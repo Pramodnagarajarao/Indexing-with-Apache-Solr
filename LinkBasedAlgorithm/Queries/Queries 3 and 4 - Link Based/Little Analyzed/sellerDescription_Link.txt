@@ -1,0 +1,368 @@
+State : Alabama 
+Number of Matches : 152
+{"['Premium Vendor']": 8, "['Private Party']": 124}
+
+
+State : Alaska 
+Number of Matches : 0
+
+
+State : Arizona 
+Number of Matches : 101
+{"['Premium Vendor']": 20, "['Private Party']": 77}
+
+
+State : Arkansas 
+Number of Matches : 56
+{"['Premium Vendor']": 6, "['Private Party']": 46}
+
+
+State : California 
+Number of Matches : 13
+{"['Premium Vendor']": 3, "['Private Party']": 10}
+
+
+State : Colorado 
+Number of Matches : 108
+{"['Premium Vendor']": 70, "['Private Party']": 38}
+
+
+State : Connecticut 
+Number of Matches : 6
+{"['Private Party']": 6}
+
+
+State : Delaware 
+Number of Matches : 2
+{"['Private Party']": 1}
+
+
+State : Florida 
+Number of Matches : 274
+{"['Premium Vendor']": 38, "['Private Party']": 216}
+
+
+State : Georgia 
+Number of Matches : 111
+{"['Premium Vendor']": 3, "['Private Party']": 103}
+
+
+State : Hawaii 
+Number of Matches : 2
+{"['Private Party']": 2}
+
+
+State : Idaho 
+Number of Matches : 20
+{"['Premium Vendor']": 3, "['Private Party']": 17}
+
+
+State : Illinois 
+Number of Matches : 13
+{"['Private Party']": 11}
+
+
+State : Indiana 
+Number of Matches : 216
+{"['Premium Vendor']": 15, "['Private Party']": 176}
+
+
+State : Iowa 
+Number of Matches : 1
+{"['Private Party']": 1}
+
+
+State : Kansas 
+Number of Matches : 130
+{"['Premium Vendor']": 29, "['Private Party']": 96}
+
+
+State : Kentucky 
+Number of Matches : 110
+{"['Premium Vendor']": 5, "['Private Party']": 96}
+
+
+State : Louisiana 
+Number of Matches : 0
+
+
+State : Maine 
+Number of Matches : 0
+
+
+State : Maryland 
+Number of Matches : 7
+{"['Private Party']": 6}
+
+
+State : Massachusetts 
+Number of Matches : 0
+
+
+State : Michigan 
+Number of Matches : 117
+{"['Premium Vendor']": 14, "['Private Party']": 97}
+
+
+State : Minnesota 
+Number of Matches : 0
+
+
+State : Mississippi 
+Number of Matches : 12
+{"['Premium Vendor']": 1, "['Private Party']": 9}
+
+
+State : Missouri 
+Number of Matches : 13
+{"['Premium Vendor']": 2, "['Private Party']": 10}
+
+
+State : Montana
+Number of Matches : 25
+{"['Private Party']": 23}
+
+
+State : Nebraska 
+Number of Matches : 37
+{"['Premium Vendor']": 15, "['Private Party']": 19}
+
+
+State : Nevada 
+Number of Matches : 65
+{"['Premium Vendor']": 12, "['Private Party']": 48}
+
+
+State : New Hampshire 
+Number of Matches : 23
+{"['Premium Vendor']": 3, "['Private Party']": 18}
+
+
+State : New Jersey 
+Number of Matches : 0
+
+
+State : New Mexico 
+Number of Matches : 41
+{"['Premium Vendor']": 8, "['Private Party']": 32}
+
+
+State : New York 
+Number of Matches : 7
+{"['Premium Vendor']": 1, "['Private Party']": 6}
+
+
+State : North Carolina 
+Number of Matches : 284
+{"['Premium Vendor']": 33, "['Private Party']": 225}
+
+
+State : North Dakota 
+Number of Matches : 2
+{"['Private Party']": 2}
+
+
+State : Ohio 
+Number of Matches : 3
+{"['Private Party']": 3}
+
+
+State : Oklahoma 
+Number of Matches : 168
+{"['Premium Vendor']": 66, "['Private Party']": 89}
+
+
+State : Oregon 
+Number of Matches : 42
+{"['Private Party']": 39}
+
+
+State : Pennsylvania
+Number of Matches : 2
+{"['Private Party']": 2}
+
+
+State : Rhode Island 
+Number of Matches : 0
+
+
+State : South Carolina 
+Number of Matches : 191
+{"['Premium Vendor']": 17, "['Private Party']": 155}
+
+
+State : South Dakota 
+Number of Matches : 0
+
+
+State : Tennessee 
+Number of Matches : 236
+{"['Premium Vendor']": 8, "['Private Party']": 202}
+
+
+State : Texas 
+Number of Matches : 32
+{"['Armadillo Guns']": 7,
+ "['Cash-N-Go Pawn']": 1,
+ "['Plano Pawn Shop']": 1,
+ "['Premium Vendor']": 3,
+ "['Private Party']": 2,
+ "['Ryan']": 1,
+ "['S&R Sales Pawn Shop']": 1,
+ "['T&Z Armory Inc.']": 10,
+ "['Texas Jewelry & Loan']": 4,
+ "['The Armory']": 2}
+
+
+State : Utah 
+Number of Matches : 2
+{"['Private Party']": 2}
+
+
+State : Vermont 
+Number of Matches : 3
+{"['Private Party']": 3}
+
+
+State : Virginia 
+Number of Matches : 28
+{"['Premium Vendor']": 6, "['Private Party']": 20}
+
+
+State : Washington 
+Number of Matches : 148
+{"['Premium Vendor']": 23, "['Private Party']": 106}
+
+
+State : West Virginia 
+Number of Matches : 5
+{"['Premium Vendor']": 1, "['Private Party']": 4}
+
+
+State : Wisconsin 
+Number of Matches : 157
+{"['Premium Vendor']": 17, "['Private Party']": 128}
+
+
+State : Wyoming
+Number of Matches : 5
+{"['Private Party']": 5}
+
+
+State : Midwest City
+Number of Matches : 0
+
+
+State : Cincinnati
+Number of Matches : 2
+{"['Private Party']": 2}
+
+
+State : London
+Number of Matches : 5
+{"['The Armory']": 5}
+
+
+State : Birmingham
+Number of Matches : 3
+{"['Private Party']": 3}
+
+
+State : Orlando
+Number of Matches : 1
+{"['Private Party']": 1}
+
+
+State : Minneapolis
+Number of Matches : 1
+{}
+
+
+State : Huntsville
+Number of Matches : 5
+{"['Private Party']": 4}
+
+
+State : Jacksonville
+Number of Matches : 4
+{"['Premium Vendor']": 1, "['Private Party']": 3}
+
+
+State : Louisville
+Number of Matches : 5
+{"['Private Party']": 5}
+
+
+State : Detroit
+Number of Matches : 0
+
+
+State : Main
+Number of Matches : 12
+{"['T&Z Armory Inc.']": 12}
+
+
+State : San Antonio
+Number of Matches : 4
+{"['Premium Vendor']": 1, "['Private Party']": 3}
+
+
+State : Auburn
+Number of Matches : 2
+{"['Premium Vendor']": 2}
+
+
+State : Nashville
+Number of Matches : 8
+{"['Private Party']": 6}
+
+
+State : Portland
+Number of Matches : 10
+{"['Private Party']": 9}
+
+
+State : Knoxville
+Number of Matches : 12
+{"['Private Party']": 10}
+
+
+State : Denver
+Number of Matches : 6
+{"['Premium Vendor']": 2, "['Private Party']": 4}
+
+
+State : Edmond
+Number of Matches : 6
+{"['Private Party']": 6}
+
+
+State : Tulsa
+Number of Matches : 54
+{"['Premium Vendor']": 7, "['Private Party']": 46}
+
+
+State : Hampton
+Number of Matches : 21
+{"['Premium Vendor']": 3, "['Private Party']": 14}
+
+
+State : San Diego
+Number of Matches : 7
+{"['Private Party']": 7}
+
+
+State : Las Vegas
+Number of Matches : 9
+{"['Premium Vendor']": 1, "['Private Party']": 7}
+
+
+State : Los Angeles
+Number of Matches : 0
+
+
+State : United States
+Number of Matches : 806
+{"['Premium Vendor']": 126, "['Private Party']": 618}
+
+

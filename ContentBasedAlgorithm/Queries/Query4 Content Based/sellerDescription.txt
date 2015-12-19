@@ -1,0 +1,411 @@
+State : Alabama 
+Number of Matches : 3163
+{'Premium Vendor': 256, 'Private Party': 2552}
+
+
+State : Alaska 
+Number of Matches : 0
+
+
+State : Arizona 
+Number of Matches : 2291
+{'Premium Vendor': 493, 'Private Party': 1731}
+
+
+State : Arkansas 
+Number of Matches : 1359
+{'Premium Vendor': 151, 'Private Party': 1104}
+
+
+State : California 
+Number of Matches : 581
+{'Premium Vendor': 49, 'Private Party': 480}
+
+
+State : Colorado 
+Number of Matches : 3237
+{'Premium Vendor': 1744, 'Private Party': 1378}
+
+
+State : Connecticut 
+Number of Matches : 155
+{'Premium Vendor': 2, 'Private Party': 149}
+
+
+State : Delaware 
+Number of Matches : 28
+{'Private Party': 26}
+
+
+State : Florida 
+Number of Matches : 6579
+{'Premium Vendor': 1027, 'Private Party': 5148}
+
+
+State : Georgia 
+Number of Matches : 2701
+{'Premium Vendor': 56, 'Private Party': 2478}
+
+
+State : Hawaii 
+Number of Matches : 93
+{'Private Party': 91}
+
+
+State : Idaho 
+Number of Matches : 442
+{'Premium Vendor': 40, 'Private Party': 388}
+
+
+State : Illinois 
+Number of Matches : 230
+{'Premium Vendor': 18, 'Private Party': 190}
+
+
+State : Indiana 
+Number of Matches : 5319
+{'Premium Vendor': 272, 'Private Party': 4444}
+
+
+State : Iowa 
+Number of Matches : 51
+{'Private Party': 49}
+
+
+State : Kansas 
+Number of Matches : 3321
+{'Premium Vendor': 600, 'Private Party': 2433}
+
+
+State : Kentucky 
+Number of Matches : 2923
+{'Premium Vendor': 132, 'Private Party': 2520}
+
+
+State : Louisiana 
+Number of Matches : 33
+{'Private Party': 28}
+
+
+State : Maine 
+Number of Matches : 0
+
+
+State : Maryland 
+Number of Matches : 181
+{'Premium Vendor': 1, 'Private Party': 167}
+
+
+State : Massachusetts 
+Number of Matches : 2
+{'Private Party': 2}
+
+
+State : Michigan 
+Number of Matches : 3254
+{'Premium Vendor': 484, 'Private Party': 2595}
+
+
+State : Minnesota 
+Number of Matches : 1
+{'Private Party': 1}
+
+
+State : Mississippi 
+Number of Matches : 238
+{'Premium Vendor': 30, 'Private Party': 191}
+
+
+State : Missouri 
+Number of Matches : 251
+{'Premium Vendor': 41, 'Private Party': 188}
+
+
+State : Montana
+Number of Matches : 839
+{'Premium Vendor': 11, 'Private Party': 777}
+
+
+State : Nebraska 
+Number of Matches : 1006
+{'Premium Vendor': 449, 'Private Party': 508}
+
+
+State : Nevada 
+Number of Matches : 1608
+{'Premium Vendor': 213, 'Private Party': 1234}
+
+
+State : New Hampshire 
+Number of Matches : 665
+{'Premium Vendor': 80, 'Private Party': 515}
+
+
+State : New Jersey 
+Number of Matches : 4
+{'Private Party': 4}
+
+
+State : New Mexico 
+Number of Matches : 920
+{'Premium Vendor': 108, 'Private Party': 762}
+
+
+State : New York 
+Number of Matches : 117
+{'Premium Vendor': 35, 'Private Party': 77}
+
+
+State : North Carolina 
+Number of Matches : 7369
+{'Premium Vendor': 691, 'Private Party': 5966}
+
+
+State : North Dakota 
+Number of Matches : 67
+{'Premium Vendor': 1, 'Private Party': 61}
+
+
+State : Ohio 
+Number of Matches : 163
+{'Private Party': 143}
+
+
+State : Oklahoma 
+Number of Matches : 4634
+{'Premium Vendor': 1436, 'Private Party': 2823}
+
+
+State : Oregon 
+Number of Matches : 772
+{'Premium Vendor': 26, 'Private Party': 686}
+
+
+State : Pennsylvania
+Number of Matches : 85
+{'Private Party': 79}
+
+
+State : Rhode Island 
+Number of Matches : 0
+
+
+State : South Carolina 
+Number of Matches : 4439
+{'Premium Vendor': 322, 'Private Party': 3650}
+
+
+State : South Dakota 
+Number of Matches : 0
+
+
+State : Tennessee 
+Number of Matches : 5605
+{'Premium Vendor': 112, 'Private Party': 4799}
+
+
+State : Texas 
+Number of Matches : 797
+{'(J.LESLIE INC.) www.BADASSSHOTGUN.COM': 3,
+ 'Andries': 1,
+ 'Armadillo Guns': 136,
+ 'B&S Guns': 24,
+ 'Bison Creek Firearms': 2,
+ 'Cash-N-Go Pawn': 16,
+ 'Dan': 4,
+ 'Daniel': 2,
+ 'Dave': 1,
+ "FANCY\\'S SERVICE AND MORE": 2,
+ 'FR Sales Co/FFL Dealer': 1,
+ 'G': 2,
+ 'HWY 380 Pawn Inc': 8,
+ 'Jason': 4,
+ 'Jeff': 1,
+ 'Jerimy': 1,
+ 'Jerry': 2,
+ 'John': 1,
+ 'Marshall Arms': 1,
+ 'Mike': 1,
+ 'Plano Pawn Shop': 27,
+ 'Premium Vendor': 40,
+ 'Private Party': 89,
+ 'Private Seller': 1,
+ 'Randy': 1,
+ 'Richard': 3,
+ 'Ryan': 2,
+ 'S&R Sales Pawn Shop': 4,
+ 'Sage Brush Arms': 4,
+ 'T&Z Armory Inc.': 242,
+ 'Texas Jewelry & Loan': 83,
+ 'The Armory': 60,
+ 'Tiptop Framing': 1,
+ 'aandaautosales': 1,
+ 'charles': 1,
+ 'curtis': 1,
+ 'ebony': 1,
+ 'elaine': 2,
+ 'ernie': 1,
+ 'john': 1,
+ 'jonathan': 2,
+ 'larry': 2,
+ 'mark': 1,
+ 'robert': 4,
+ 'rooney marshall ent': 1,
+ 'shaun': 1,
+ 'tvctr': 1}
+
+
+State : Utah 
+Number of Matches : 52
+{'Premium Vendor': 3, 'Private Party': 48}
+
+
+State : Vermont 
+Number of Matches : 163
+{'Premium Vendor': 3, 'Private Party': 149}
+
+
+State : Virginia 
+Number of Matches : 829
+{'Premium Vendor': 60, 'Private Party': 704}
+
+
+State : Washington 
+Number of Matches : 4282
+{'Premium Vendor': 654, 'Private Party': 3261}
+
+
+State : West Virginia 
+Number of Matches : 225
+{'Premium Vendor': 1, 'Private Party': 211}
+
+
+State : Wisconsin 
+Number of Matches : 4052
+{'Premium Vendor': 335, 'Private Party': 3348}
+
+
+State : Wyoming
+Number of Matches : 155
+{'Premium Vendor': 2, 'Private Party': 147}
+
+
+State : Midwest City
+Number of Matches : 0
+
+
+State : Cincinnati
+Number of Matches : 67
+{'Private Party': 61}
+
+
+State : London
+Number of Matches : 66
+{'Private Party': 4, 'The Armory': 62}
+
+
+State : Birmingham
+Number of Matches : 106
+{'Private Party': 92}
+
+
+State : Orlando
+Number of Matches : 92
+{'Private Party': 84}
+
+
+State : Minneapolis
+Number of Matches : 71
+{'Private Party': 66}
+
+
+State : Huntsville
+Number of Matches : 89
+{'Premium Vendor': 2, 'Private Party': 79}
+
+
+State : Jacksonville
+Number of Matches : 111
+{'Premium Vendor': 4, 'Private Party': 103}
+
+
+State : Louisville
+Number of Matches : 152
+{'Private Party': 128}
+
+
+State : Detroit
+Number of Matches : 124
+{'Premium Vendor': 8, 'Private Party': 107}
+
+
+State : Main
+Number of Matches : 248
+{'T&Z Armory Inc.': 248}
+
+
+State : San Antonio
+Number of Matches : 115
+{'Premium Vendor': 53, 'Private Party': 59}
+
+
+State : Auburn
+Number of Matches : 103
+{'Premium Vendor': 93, 'Private Party': 10}
+
+
+State : Nashville
+Number of Matches : 182
+{'Premium Vendor': 1, 'Private Party': 150}
+
+
+State : Portland
+Number of Matches : 200
+{'Private Party': 178}
+
+
+State : Knoxville
+Number of Matches : 306
+{'Private Party': 259}
+
+
+State : Denver
+Number of Matches : 104
+{'Premium Vendor': 33, 'Private Party': 70}
+
+
+State : Edmond
+Number of Matches : 94
+{'Premium Vendor': 1, 'Private Party': 90}
+
+
+State : Tulsa
+Number of Matches : 1215
+{'Premium Vendor': 162, 'Private Party': 963}
+
+
+State : Hampton
+Number of Matches : 563
+{'Premium Vendor': 54, 'Private Party': 437}
+
+
+State : San Diego
+Number of Matches : 125
+{'Private Party': 114}
+
+
+State : Las Vegas
+Number of Matches : 105
+{'Premium Vendor': 1, 'Private Party': 95}
+
+
+State : Los Angeles
+Number of Matches : 63
+{'Private Party': 51}
+
+
+State : United States
+Number of Matches : 20457
+{'Premium Vendor': 3530, 'Private Party': 15409}
+
+

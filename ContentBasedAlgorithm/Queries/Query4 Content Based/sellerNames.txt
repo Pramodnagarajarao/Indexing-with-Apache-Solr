@@ -1,0 +1,373 @@
+State : Alabama 
+Number of Matches : 3163
+{}
+
+
+State : Alaska 
+Number of Matches : 0
+State : Arizona 
+Number of Matches : 2291
+{}
+
+
+State : Arkansas 
+Number of Matches : 1359
+{}
+
+
+State : California 
+Number of Matches : 581
+{}
+
+
+State : Colorado 
+Number of Matches : 3237
+{}
+
+
+State : Connecticut 
+Number of Matches : 155
+{}
+
+
+State : Delaware 
+Number of Matches : 28
+{}
+
+
+State : Florida 
+Number of Matches : 6579
+{}
+
+
+State : Georgia 
+Number of Matches : 2701
+{}
+
+
+State : Hawaii 
+Number of Matches : 93
+{}
+
+
+State : Idaho 
+Number of Matches : 442
+{}
+
+
+State : Illinois 
+Number of Matches : 230
+{}
+
+
+State : Indiana 
+Number of Matches : 5319
+{}
+
+
+State : Iowa 
+Number of Matches : 51
+{}
+
+
+State : Kansas 
+Number of Matches : 3321
+{}
+
+
+State : Kentucky 
+Number of Matches : 2923
+{}
+
+
+State : Louisiana 
+Number of Matches : 33
+{}
+
+
+State : Maine 
+Number of Matches : 0
+State : Maryland 
+Number of Matches : 181
+{}
+
+
+State : Massachusetts 
+Number of Matches : 2
+{}
+
+
+State : Michigan 
+Number of Matches : 3254
+{}
+
+
+State : Minnesota 
+Number of Matches : 1
+{}
+
+
+State : Mississippi 
+Number of Matches : 238
+{}
+
+
+State : Missouri 
+Number of Matches : 251
+{}
+
+
+State : Montana
+Number of Matches : 839
+{}
+
+
+State : Nebraska 
+Number of Matches : 1006
+{}
+
+
+State : Nevada 
+Number of Matches : 1608
+{}
+
+
+State : New Hampshire 
+Number of Matches : 665
+{}
+
+
+State : New Jersey 
+Number of Matches : 4
+{}
+
+
+State : New Mexico 
+Number of Matches : 920
+{}
+
+
+State : New York 
+Number of Matches : 117
+{}
+
+
+State : North Carolina 
+Number of Matches : 7369
+{}
+
+
+State : North Dakota 
+Number of Matches : 67
+{}
+
+
+State : Ohio 
+Number of Matches : 163
+{}
+
+
+State : Oklahoma 
+Number of Matches : 4634
+{}
+
+
+State : Oregon 
+Number of Matches : 772
+{}
+
+
+State : Pennsylvania
+Number of Matches : 85
+{}
+
+
+State : Rhode Island 
+Number of Matches : 0
+State : South Carolina 
+Number of Matches : 4439
+{"['Mick1of10']": 1}
+
+
+State : South Dakota 
+Number of Matches : 0
+State : Tennessee 
+Number of Matches : 5605
+{}
+
+
+State : Texas 
+Number of Matches : 797
+{"['Andrew']": 242,
+ "['BADASSSHOTGUN.COM']": 3,
+ "['Darin']": 60,
+ "['David / Carl']": 136,
+ "['Durrie']": 8,
+ "['Edward']": 1,
+ "['Fernando']": 1,
+ "['George']": 4,
+ "['Joanna']": 27,
+ "['Joyce']": 1,
+ "['Kenny or Ray']": 16,
+ "['Marshall']": 1,
+ "['Morris']": 1,
+ "['Steve']": 107,
+ "['Todd']": 2,
+ "['We offer layaway, trades, and pawn.']": 4,
+ "['kimberly']": 2,
+ "['rooney']": 1,
+ "['scott']": 1}
+
+
+State : Utah 
+Number of Matches : 52
+{}
+
+
+State : Vermont 
+Number of Matches : 163
+{}
+
+
+State : Virginia 
+Number of Matches : 829
+{}
+
+
+State : Washington 
+Number of Matches : 4282
+{}
+
+
+State : West Virginia 
+Number of Matches : 225
+{}
+
+
+State : Wisconsin 
+Number of Matches : 4052
+{}
+
+
+State : Wyoming
+Number of Matches : 155
+{}
+
+
+State : Midwest City
+Number of Matches : 0
+State : Cincinnati
+Number of Matches : 67
+{}
+
+
+State : London
+Number of Matches : 66
+{"['Darin']": 62}
+
+
+State : Birmingham
+Number of Matches : 106
+{}
+
+
+State : Orlando
+Number of Matches : 92
+{}
+
+
+State : Minneapolis
+Number of Matches : 71
+{}
+
+
+State : Huntsville
+Number of Matches : 89
+{}
+
+
+State : Jacksonville
+Number of Matches : 111
+{}
+
+
+State : Louisville
+Number of Matches : 152
+{}
+
+
+State : Detroit
+Number of Matches : 124
+{}
+
+
+State : Main
+Number of Matches : 248
+{"['Andrew']": 248}
+
+
+State : San Antonio
+Number of Matches : 115
+{}
+
+
+State : Auburn
+Number of Matches : 103
+{}
+
+
+State : Nashville
+Number of Matches : 182
+{}
+
+
+State : Portland
+Number of Matches : 200
+{}
+
+
+State : Knoxville
+Number of Matches : 306
+{}
+
+
+State : Denver
+Number of Matches : 104
+{}
+
+
+State : Edmond
+Number of Matches : 94
+{}
+
+
+State : Tulsa
+Number of Matches : 1215
+{}
+
+
+State : Hampton
+Number of Matches : 563
+{}
+
+
+State : San Diego
+Number of Matches : 125
+{}
+
+
+State : Las Vegas
+Number of Matches : 105
+{}
+
+
+State : Los Angeles
+Number of Matches : 63
+{}
+
+
+State : United States
+Number of Matches : 20457
+{}
+
+

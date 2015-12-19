@@ -1,0 +1,7888 @@
+
+Year-Month : 2015-05-01  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Utah 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 1
+Undefined : 0
+
+Year-Month : 2015-05-01  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-01  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-02  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-03  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Montana
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-04  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-04  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Illinois 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-05  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Missouri 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-05  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : New Jersey 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-05  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-05  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Illinois 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-06  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-06  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Illinois 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-07  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-07  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Alaska 
+Number of Matches : 4
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-08  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Florida 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-08  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Maryland 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-08  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-08  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Florida 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-09  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Maine 
+Number of Matches : 2
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-09  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : North Dakota 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-09  State : Ohio 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-09  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Texas 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-09  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-09  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Alaska 
+Number of Matches : 10
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 8
+
+Year-Month : 2015-05-10  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Colorado 
+Number of Matches : 3
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-10  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Maine 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-10  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : North Carolina 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-10  State : North Dakota 
+Number of Matches : 4
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-10  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-10  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Delaware 
+Number of Matches : 3
+Handguns : 0
+Rifles : 0
+Shotguns : 1
+Undefined : 2
+
+Year-Month : 2015-05-11  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Hawaii 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-11  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Maine 
+Number of Matches : 4
+Handguns : 1
+Rifles : 1
+Shotguns : 1
+Undefined : 1
+
+Year-Month : 2015-05-11  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : New Hampshire 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-11  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : North Dakota 
+Number of Matches : 5
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-11  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-11  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Colorado 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-12  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Delaware 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-12  State : Florida 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-12  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Hawaii 
+Number of Matches : 6
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-12  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Maine 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-12  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Minnesota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-12  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : North Dakota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-12  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Virginia 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-12  State : Washington 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-12  State : West Virginia 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-12  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-12  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Alaska 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 1
+Undefined : 0
+
+Year-Month : 2015-05-13  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Connecticut 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-13  State : Delaware 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-13  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Georgia 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-13  State : Hawaii 
+Number of Matches : 4
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-13  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Maine 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-13  State : Maryland 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-13  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : North Dakota 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-13  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : South Dakota 
+Number of Matches : 5
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-13  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Texas 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-13  State : Utah 
+Number of Matches : 8
+Handguns : 1
+Rifles : 5
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-13  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Virginia 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-13  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : West Virginia 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-13  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-13  State : Wyoming
+Number of Matches : 5
+Handguns : 0
+Rifles : 3
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-14  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Alaska 
+Number of Matches : 4
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-14  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Connecticut 
+Number of Matches : 5
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-14  State : Delaware 
+Number of Matches : 3
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-14  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Idaho 
+Number of Matches : 8
+Handguns : 3
+Rifles : 1
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-14  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Louisiana 
+Number of Matches : 5
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-14  State : Maine 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-14  State : Maryland 
+Number of Matches : 4
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-14  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Minnesota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-14  State : Mississippi 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-14  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Nebraska 
+Number of Matches : 3
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-14  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : New York 
+Number of Matches : 7
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 7
+
+Year-Month : 2015-05-14  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : North Dakota 
+Number of Matches : 2
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-14  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : South Dakota 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-14  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Utah 
+Number of Matches : 4
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-14  State : Vermont 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-14  State : Virginia 
+Number of Matches : 4
+Handguns : 0
+Rifles : 1
+Shotguns : 1
+Undefined : 2
+
+Year-Month : 2015-05-14  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : West Virginia 
+Number of Matches : 3
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-14  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-05-14  State : Wyoming
+Number of Matches : 5
+Handguns : 1
+Rifles : 3
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-15  State : Alabama 
+Number of Matches : 65
+Handguns : 19
+Rifles : 18
+Shotguns : 0
+Undefined : 28
+
+Year-Month : 2015-05-15  State : Alaska 
+Number of Matches : 14
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 12
+
+Year-Month : 2015-05-15  State : Arizona 
+Number of Matches : 44
+Handguns : 15
+Rifles : 11
+Shotguns : 2
+Undefined : 16
+
+Year-Month : 2015-05-15  State : Arkansas 
+Number of Matches : 47
+Handguns : 5
+Rifles : 4
+Shotguns : 5
+Undefined : 33
+
+Year-Month : 2015-05-15  State : California 
+Number of Matches : 69
+Handguns : 21
+Rifles : 8
+Shotguns : 3
+Undefined : 37
+
+Year-Month : 2015-05-15  State : Colorado 
+Number of Matches : 176
+Handguns : 35
+Rifles : 25
+Shotguns : 9
+Undefined : 107
+
+Year-Month : 2015-05-15  State : Connecticut 
+Number of Matches : 8
+Handguns : 2
+Rifles : 2
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-15  State : Delaware 
+Number of Matches : 4
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-15  State : Florida 
+Number of Matches : 120
+Handguns : 37
+Rifles : 19
+Shotguns : 4
+Undefined : 60
+
+Year-Month : 2015-05-15  State : Georgia 
+Number of Matches : 82
+Handguns : 22
+Rifles : 19
+Shotguns : 8
+Undefined : 33
+
+Year-Month : 2015-05-15  State : Hawaii 
+Number of Matches : 3
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-15  State : Idaho 
+Number of Matches : 10
+Handguns : 1
+Rifles : 4
+Shotguns : 1
+Undefined : 4
+
+Year-Month : 2015-05-15  State : Illinois 
+Number of Matches : 83
+Handguns : 19
+Rifles : 13
+Shotguns : 1
+Undefined : 50
+
+Year-Month : 2015-05-15  State : Indiana 
+Number of Matches : 95
+Handguns : 33
+Rifles : 21
+Shotguns : 4
+Undefined : 37
+
+Year-Month : 2015-05-15  State : Iowa 
+Number of Matches : 24
+Handguns : 12
+Rifles : 3
+Shotguns : 3
+Undefined : 6
+
+Year-Month : 2015-05-15  State : Kansas 
+Number of Matches : 74
+Handguns : 16
+Rifles : 11
+Shotguns : 5
+Undefined : 42
+
+Year-Month : 2015-05-15  State : Kentucky 
+Number of Matches : 95
+Handguns : 28
+Rifles : 17
+Shotguns : 6
+Undefined : 44
+
+Year-Month : 2015-05-15  State : Louisiana 
+Number of Matches : 18
+Handguns : 11
+Rifles : 3
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-15  State : Maine 
+Number of Matches : 2
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-15  State : Maryland 
+Number of Matches : 9
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-15  State : Massachusetts 
+Number of Matches : 21
+Handguns : 9
+Rifles : 3
+Shotguns : 1
+Undefined : 8
+
+Year-Month : 2015-05-15  State : Michigan 
+Number of Matches : 88
+Handguns : 30
+Rifles : 16
+Shotguns : 6
+Undefined : 36
+
+Year-Month : 2015-05-15  State : Minnesota 
+Number of Matches : 75
+Handguns : 13
+Rifles : 14
+Shotguns : 11
+Undefined : 37
+
+Year-Month : 2015-05-15  State : Mississippi 
+Number of Matches : 40
+Handguns : 2
+Rifles : 11
+Shotguns : 0
+Undefined : 27
+
+Year-Month : 2015-05-15  State : Missouri 
+Number of Matches : 119
+Handguns : 24
+Rifles : 31
+Shotguns : 7
+Undefined : 57
+
+Year-Month : 2015-05-15  State : Montana
+Number of Matches : 27
+Handguns : 8
+Rifles : 4
+Shotguns : 1
+Undefined : 14
+
+Year-Month : 2015-05-15  State : Nebraska 
+Number of Matches : 38
+Handguns : 15
+Rifles : 7
+Shotguns : 1
+Undefined : 15
+
+Year-Month : 2015-05-15  State : Nevada 
+Number of Matches : 53
+Handguns : 9
+Rifles : 6
+Shotguns : 0
+Undefined : 38
+
+Year-Month : 2015-05-15  State : New Hampshire 
+Number of Matches : 23
+Handguns : 13
+Rifles : 7
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-15  State : New Jersey 
+Number of Matches : 32
+Handguns : 8
+Rifles : 12
+Shotguns : 1
+Undefined : 11
+
+Year-Month : 2015-05-15  State : New Mexico 
+Number of Matches : 22
+Handguns : 4
+Rifles : 9
+Shotguns : 1
+Undefined : 8
+
+Year-Month : 2015-05-15  State : New York 
+Number of Matches : 42
+Handguns : 13
+Rifles : 9
+Shotguns : 2
+Undefined : 18
+
+Year-Month : 2015-05-15  State : North Carolina 
+Number of Matches : 99
+Handguns : 26
+Rifles : 23
+Shotguns : 5
+Undefined : 45
+
+Year-Month : 2015-05-15  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-15  State : Ohio 
+Number of Matches : 194
+Handguns : 56
+Rifles : 36
+Shotguns : 14
+Undefined : 88
+
+Year-Month : 2015-05-15  State : Oklahoma 
+Number of Matches : 129
+Handguns : 39
+Rifles : 24
+Shotguns : 13
+Undefined : 53
+
+Year-Month : 2015-05-15  State : Oregon 
+Number of Matches : 77
+Handguns : 19
+Rifles : 11
+Shotguns : 2
+Undefined : 45
+
+Year-Month : 2015-05-15  State : Pennsylvania
+Number of Matches : 68
+Handguns : 16
+Rifles : 19
+Shotguns : 3
+Undefined : 30
+
+Year-Month : 2015-05-15  State : Rhode Island 
+Number of Matches : 15
+Handguns : 6
+Rifles : 3
+Shotguns : 2
+Undefined : 4
+
+Year-Month : 2015-05-15  State : South Carolina 
+Number of Matches : 66
+Handguns : 21
+Rifles : 10
+Shotguns : 7
+Undefined : 28
+
+Year-Month : 2015-05-15  State : South Dakota 
+Number of Matches : 7
+Handguns : 1
+Rifles : 3
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-15  State : Tennessee 
+Number of Matches : 120
+Handguns : 41
+Rifles : 12
+Shotguns : 2
+Undefined : 65
+
+Year-Month : 2015-05-15  State : Texas 
+Number of Matches : 110
+Handguns : 43
+Rifles : 16
+Shotguns : 7
+Undefined : 44
+
+Year-Month : 2015-05-15  State : Utah 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 1
+Undefined : 0
+
+Year-Month : 2015-05-15  State : Vermont 
+Number of Matches : 18
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 16
+
+Year-Month : 2015-05-15  State : Virginia 
+Number of Matches : 88
+Handguns : 19
+Rifles : 9
+Shotguns : 3
+Undefined : 57
+
+Year-Month : 2015-05-15  State : Washington 
+Number of Matches : 114
+Handguns : 17
+Rifles : 29
+Shotguns : 7
+Undefined : 61
+
+Year-Month : 2015-05-15  State : West Virginia 
+Number of Matches : 8
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-15  State : Wisconsin 
+Number of Matches : 114
+Handguns : 16
+Rifles : 33
+Shotguns : 12
+Undefined : 53
+
+Year-Month : 2015-05-15  State : Wyoming
+Number of Matches : 4
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-16  State : Alabama 
+Number of Matches : 107
+Handguns : 29
+Rifles : 39
+Shotguns : 4
+Undefined : 35
+
+Year-Month : 2015-05-16  State : Alaska 
+Number of Matches : 3
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-16  State : Arizona 
+Number of Matches : 136
+Handguns : 54
+Rifles : 30
+Shotguns : 4
+Undefined : 48
+
+Year-Month : 2015-05-16  State : Arkansas 
+Number of Matches : 52
+Handguns : 16
+Rifles : 15
+Shotguns : 2
+Undefined : 19
+
+Year-Month : 2015-05-16  State : California 
+Number of Matches : 200
+Handguns : 53
+Rifles : 38
+Shotguns : 11
+Undefined : 98
+
+Year-Month : 2015-05-16  State : Colorado 
+Number of Matches : 235
+Handguns : 39
+Rifles : 30
+Shotguns : 2
+Undefined : 164
+
+Year-Month : 2015-05-16  State : Connecticut 
+Number of Matches : 8
+Handguns : 3
+Rifles : 2
+Shotguns : 2
+Undefined : 1
+
+Year-Month : 2015-05-16  State : Delaware 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-16  State : Florida 
+Number of Matches : 248
+Handguns : 68
+Rifles : 32
+Shotguns : 18
+Undefined : 130
+
+Year-Month : 2015-05-16  State : Georgia 
+Number of Matches : 119
+Handguns : 24
+Rifles : 40
+Shotguns : 3
+Undefined : 52
+
+Year-Month : 2015-05-16  State : Hawaii 
+Number of Matches : 2
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-16  State : Idaho 
+Number of Matches : 6
+Handguns : 2
+Rifles : 2
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-16  State : Illinois 
+Number of Matches : 156
+Handguns : 41
+Rifles : 25
+Shotguns : 6
+Undefined : 84
+
+Year-Month : 2015-05-16  State : Indiana 
+Number of Matches : 221
+Handguns : 74
+Rifles : 37
+Shotguns : 12
+Undefined : 98
+
+Year-Month : 2015-05-16  State : Iowa 
+Number of Matches : 26
+Handguns : 12
+Rifles : 3
+Shotguns : 1
+Undefined : 10
+
+Year-Month : 2015-05-16  State : Kansas 
+Number of Matches : 133
+Handguns : 39
+Rifles : 24
+Shotguns : 6
+Undefined : 64
+
+Year-Month : 2015-05-16  State : Kentucky 
+Number of Matches : 139
+Handguns : 40
+Rifles : 18
+Shotguns : 9
+Undefined : 72
+
+Year-Month : 2015-05-16  State : Louisiana 
+Number of Matches : 21
+Handguns : 4
+Rifles : 3
+Shotguns : 1
+Undefined : 13
+
+Year-Month : 2015-05-16  State : Maine 
+Number of Matches : 4
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-16  State : Maryland 
+Number of Matches : 17
+Handguns : 3
+Rifles : 4
+Shotguns : 1
+Undefined : 9
+
+Year-Month : 2015-05-16  State : Massachusetts 
+Number of Matches : 26
+Handguns : 5
+Rifles : 7
+Shotguns : 0
+Undefined : 14
+
+Year-Month : 2015-05-16  State : Michigan 
+Number of Matches : 136
+Handguns : 43
+Rifles : 24
+Shotguns : 7
+Undefined : 62
+
+Year-Month : 2015-05-16  State : Minnesota 
+Number of Matches : 130
+Handguns : 32
+Rifles : 27
+Shotguns : 8
+Undefined : 63
+
+Year-Month : 2015-05-16  State : Mississippi 
+Number of Matches : 25
+Handguns : 7
+Rifles : 5
+Shotguns : 1
+Undefined : 12
+
+Year-Month : 2015-05-16  State : Missouri 
+Number of Matches : 222
+Handguns : 50
+Rifles : 42
+Shotguns : 11
+Undefined : 119
+
+Year-Month : 2015-05-16  State : Montana
+Number of Matches : 28
+Handguns : 7
+Rifles : 7
+Shotguns : 0
+Undefined : 14
+
+Year-Month : 2015-05-16  State : Nebraska 
+Number of Matches : 43
+Handguns : 12
+Rifles : 8
+Shotguns : 1
+Undefined : 22
+
+Year-Month : 2015-05-16  State : Nevada 
+Number of Matches : 62
+Handguns : 15
+Rifles : 13
+Shotguns : 2
+Undefined : 32
+
+Year-Month : 2015-05-16  State : New Hampshire 
+Number of Matches : 31
+Handguns : 3
+Rifles : 5
+Shotguns : 3
+Undefined : 20
+
+Year-Month : 2015-05-16  State : New Jersey 
+Number of Matches : 13
+Handguns : 2
+Rifles : 4
+Shotguns : 1
+Undefined : 6
+
+Year-Month : 2015-05-16  State : New Mexico 
+Number of Matches : 31
+Handguns : 6
+Rifles : 4
+Shotguns : 2
+Undefined : 19
+
+Year-Month : 2015-05-16  State : New York 
+Number of Matches : 50
+Handguns : 18
+Rifles : 8
+Shotguns : 4
+Undefined : 20
+
+Year-Month : 2015-05-16  State : North Carolina 
+Number of Matches : 232
+Handguns : 82
+Rifles : 50
+Shotguns : 8
+Undefined : 92
+
+Year-Month : 2015-05-16  State : North Dakota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-16  State : Ohio 
+Number of Matches : 345
+Handguns : 101
+Rifles : 52
+Shotguns : 22
+Undefined : 170
+
+Year-Month : 2015-05-16  State : Oklahoma 
+Number of Matches : 241
+Handguns : 54
+Rifles : 37
+Shotguns : 21
+Undefined : 129
+
+Year-Month : 2015-05-16  State : Oregon 
+Number of Matches : 168
+Handguns : 35
+Rifles : 25
+Shotguns : 7
+Undefined : 101
+
+Year-Month : 2015-05-16  State : Pennsylvania
+Number of Matches : 81
+Handguns : 24
+Rifles : 11
+Shotguns : 7
+Undefined : 39
+
+Year-Month : 2015-05-16  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-16  State : South Carolina 
+Number of Matches : 164
+Handguns : 35
+Rifles : 43
+Shotguns : 9
+Undefined : 77
+
+Year-Month : 2015-05-16  State : South Dakota 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-16  State : Tennessee 
+Number of Matches : 203
+Handguns : 59
+Rifles : 37
+Shotguns : 13
+Undefined : 94
+
+Year-Month : 2015-05-16  State : Texas 
+Number of Matches : 188
+Handguns : 66
+Rifles : 42
+Shotguns : 2
+Undefined : 78
+
+Year-Month : 2015-05-16  State : Utah 
+Number of Matches : 3
+Handguns : 1
+Rifles : 0
+Shotguns : 1
+Undefined : 1
+
+Year-Month : 2015-05-16  State : Vermont 
+Number of Matches : 18
+Handguns : 1
+Rifles : 4
+Shotguns : 0
+Undefined : 13
+
+Year-Month : 2015-05-16  State : Virginia 
+Number of Matches : 98
+Handguns : 34
+Rifles : 18
+Shotguns : 5
+Undefined : 41
+
+Year-Month : 2015-05-16  State : Washington 
+Number of Matches : 214
+Handguns : 38
+Rifles : 32
+Shotguns : 10
+Undefined : 134
+
+Year-Month : 2015-05-16  State : West Virginia 
+Number of Matches : 6
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-16  State : Wisconsin 
+Number of Matches : 185
+Handguns : 32
+Rifles : 34
+Shotguns : 12
+Undefined : 107
+
+Year-Month : 2015-05-16  State : Wyoming
+Number of Matches : 3
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-17  State : Alabama 
+Number of Matches : 124
+Handguns : 38
+Rifles : 24
+Shotguns : 4
+Undefined : 58
+
+Year-Month : 2015-05-17  State : Alaska 
+Number of Matches : 3
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-17  State : Arizona 
+Number of Matches : 73
+Handguns : 22
+Rifles : 21
+Shotguns : 6
+Undefined : 24
+
+Year-Month : 2015-05-17  State : Arkansas 
+Number of Matches : 61
+Handguns : 17
+Rifles : 14
+Shotguns : 5
+Undefined : 25
+
+Year-Month : 2015-05-17  State : California 
+Number of Matches : 115
+Handguns : 22
+Rifles : 21
+Shotguns : 4
+Undefined : 68
+
+Year-Month : 2015-05-17  State : Colorado 
+Number of Matches : 194
+Handguns : 35
+Rifles : 20
+Shotguns : 3
+Undefined : 136
+
+Year-Month : 2015-05-17  State : Connecticut 
+Number of Matches : 8
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-17  State : Delaware 
+Number of Matches : 5
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-17  State : Florida 
+Number of Matches : 189
+Handguns : 60
+Rifles : 26
+Shotguns : 5
+Undefined : 98
+
+Year-Month : 2015-05-17  State : Georgia 
+Number of Matches : 107
+Handguns : 29
+Rifles : 16
+Shotguns : 8
+Undefined : 54
+
+Year-Month : 2015-05-17  State : Hawaii 
+Number of Matches : 4
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-17  State : Idaho 
+Number of Matches : 14
+Handguns : 4
+Rifles : 2
+Shotguns : 1
+Undefined : 7
+
+Year-Month : 2015-05-17  State : Illinois 
+Number of Matches : 93
+Handguns : 32
+Rifles : 21
+Shotguns : 4
+Undefined : 36
+
+Year-Month : 2015-05-17  State : Indiana 
+Number of Matches : 191
+Handguns : 49
+Rifles : 32
+Shotguns : 7
+Undefined : 103
+
+Year-Month : 2015-05-17  State : Iowa 
+Number of Matches : 25
+Handguns : 6
+Rifles : 4
+Shotguns : 3
+Undefined : 12
+
+Year-Month : 2015-05-17  State : Kansas 
+Number of Matches : 95
+Handguns : 30
+Rifles : 6
+Shotguns : 7
+Undefined : 52
+
+Year-Month : 2015-05-17  State : Kentucky 
+Number of Matches : 105
+Handguns : 32
+Rifles : 13
+Shotguns : 7
+Undefined : 53
+
+Year-Month : 2015-05-17  State : Louisiana 
+Number of Matches : 12
+Handguns : 3
+Rifles : 0
+Shotguns : 0
+Undefined : 9
+
+Year-Month : 2015-05-17  State : Maine 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-17  State : Maryland 
+Number of Matches : 17
+Handguns : 0
+Rifles : 4
+Shotguns : 1
+Undefined : 12
+
+Year-Month : 2015-05-17  State : Massachusetts 
+Number of Matches : 34
+Handguns : 9
+Rifles : 4
+Shotguns : 1
+Undefined : 20
+
+Year-Month : 2015-05-17  State : Michigan 
+Number of Matches : 170
+Handguns : 42
+Rifles : 22
+Shotguns : 9
+Undefined : 97
+
+Year-Month : 2015-05-17  State : Minnesota 
+Number of Matches : 135
+Handguns : 26
+Rifles : 26
+Shotguns : 19
+Undefined : 64
+
+Year-Month : 2015-05-17  State : Mississippi 
+Number of Matches : 13
+Handguns : 6
+Rifles : 5
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-17  State : Missouri 
+Number of Matches : 171
+Handguns : 50
+Rifles : 37
+Shotguns : 9
+Undefined : 75
+
+Year-Month : 2015-05-17  State : Montana
+Number of Matches : 35
+Handguns : 7
+Rifles : 11
+Shotguns : 0
+Undefined : 17
+
+Year-Month : 2015-05-17  State : Nebraska 
+Number of Matches : 27
+Handguns : 4
+Rifles : 4
+Shotguns : 2
+Undefined : 17
+
+Year-Month : 2015-05-17  State : Nevada 
+Number of Matches : 54
+Handguns : 11
+Rifles : 10
+Shotguns : 2
+Undefined : 31
+
+Year-Month : 2015-05-17  State : New Hampshire 
+Number of Matches : 52
+Handguns : 11
+Rifles : 10
+Shotguns : 3
+Undefined : 28
+
+Year-Month : 2015-05-17  State : New Jersey 
+Number of Matches : 12
+Handguns : 1
+Rifles : 5
+Shotguns : 3
+Undefined : 3
+
+Year-Month : 2015-05-17  State : New Mexico 
+Number of Matches : 20
+Handguns : 4
+Rifles : 3
+Shotguns : 1
+Undefined : 12
+
+Year-Month : 2015-05-17  State : New York 
+Number of Matches : 24
+Handguns : 6
+Rifles : 3
+Shotguns : 2
+Undefined : 13
+
+Year-Month : 2015-05-17  State : North Carolina 
+Number of Matches : 248
+Handguns : 97
+Rifles : 52
+Shotguns : 10
+Undefined : 89
+
+Year-Month : 2015-05-17  State : North Dakota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 1
+Undefined : 0
+
+Year-Month : 2015-05-17  State : Ohio 
+Number of Matches : 327
+Handguns : 95
+Rifles : 53
+Shotguns : 15
+Undefined : 164
+
+Year-Month : 2015-05-17  State : Oklahoma 
+Number of Matches : 193
+Handguns : 63
+Rifles : 41
+Shotguns : 15
+Undefined : 74
+
+Year-Month : 2015-05-17  State : Oregon 
+Number of Matches : 192
+Handguns : 32
+Rifles : 42
+Shotguns : 9
+Undefined : 109
+
+Year-Month : 2015-05-17  State : Pennsylvania
+Number of Matches : 108
+Handguns : 33
+Rifles : 16
+Shotguns : 5
+Undefined : 54
+
+Year-Month : 2015-05-17  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-05-17  State : South Carolina 
+Number of Matches : 112
+Handguns : 23
+Rifles : 31
+Shotguns : 8
+Undefined : 50
+
+Year-Month : 2015-05-17  State : South Dakota 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-17  State : Tennessee 
+Number of Matches : 182
+Handguns : 46
+Rifles : 28
+Shotguns : 12
+Undefined : 96
+
+Year-Month : 2015-05-17  State : Texas 
+Number of Matches : 139
+Handguns : 53
+Rifles : 25
+Shotguns : 3
+Undefined : 58
+
+Year-Month : 2015-05-17  State : Utah 
+Number of Matches : 5
+Handguns : 1
+Rifles : 2
+Shotguns : 2
+Undefined : 0
+
+Year-Month : 2015-05-17  State : Vermont 
+Number of Matches : 12
+Handguns : 3
+Rifles : 3
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-17  State : Virginia 
+Number of Matches : 153
+Handguns : 32
+Rifles : 31
+Shotguns : 5
+Undefined : 85
+
+Year-Month : 2015-05-17  State : Washington 
+Number of Matches : 146
+Handguns : 32
+Rifles : 36
+Shotguns : 7
+Undefined : 71
+
+Year-Month : 2015-05-17  State : West Virginia 
+Number of Matches : 11
+Handguns : 2
+Rifles : 4
+Shotguns : 1
+Undefined : 4
+
+Year-Month : 2015-05-17  State : Wisconsin 
+Number of Matches : 173
+Handguns : 37
+Rifles : 41
+Shotguns : 18
+Undefined : 77
+
+Year-Month : 2015-05-17  State : Wyoming
+Number of Matches : 9
+Handguns : 3
+Rifles : 3
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-18  State : Alabama 
+Number of Matches : 112
+Handguns : 32
+Rifles : 18
+Shotguns : 1
+Undefined : 61
+
+Year-Month : 2015-05-18  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-18  State : Arizona 
+Number of Matches : 38
+Handguns : 9
+Rifles : 9
+Shotguns : 2
+Undefined : 18
+
+Year-Month : 2015-05-18  State : Arkansas 
+Number of Matches : 56
+Handguns : 6
+Rifles : 8
+Shotguns : 11
+Undefined : 31
+
+Year-Month : 2015-05-18  State : California 
+Number of Matches : 158
+Handguns : 34
+Rifles : 29
+Shotguns : 10
+Undefined : 85
+
+Year-Month : 2015-05-18  State : Colorado 
+Number of Matches : 243
+Handguns : 42
+Rifles : 39
+Shotguns : 16
+Undefined : 146
+
+Year-Month : 2015-05-18  State : Connecticut 
+Number of Matches : 9
+Handguns : 2
+Rifles : 0
+Shotguns : 1
+Undefined : 6
+
+Year-Month : 2015-05-18  State : Delaware 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-18  State : Florida 
+Number of Matches : 254
+Handguns : 75
+Rifles : 30
+Shotguns : 7
+Undefined : 142
+
+Year-Month : 2015-05-18  State : Georgia 
+Number of Matches : 97
+Handguns : 26
+Rifles : 24
+Shotguns : 9
+Undefined : 38
+
+Year-Month : 2015-05-18  State : Hawaii 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-18  State : Idaho 
+Number of Matches : 7
+Handguns : 1
+Rifles : 1
+Shotguns : 2
+Undefined : 3
+
+Year-Month : 2015-05-18  State : Illinois 
+Number of Matches : 139
+Handguns : 40
+Rifles : 18
+Shotguns : 9
+Undefined : 72
+
+Year-Month : 2015-05-18  State : Indiana 
+Number of Matches : 172
+Handguns : 46
+Rifles : 22
+Shotguns : 3
+Undefined : 101
+
+Year-Month : 2015-05-18  State : Iowa 
+Number of Matches : 18
+Handguns : 5
+Rifles : 2
+Shotguns : 2
+Undefined : 9
+
+Year-Month : 2015-05-18  State : Kansas 
+Number of Matches : 111
+Handguns : 40
+Rifles : 23
+Shotguns : 5
+Undefined : 43
+
+Year-Month : 2015-05-18  State : Kentucky 
+Number of Matches : 118
+Handguns : 35
+Rifles : 17
+Shotguns : 3
+Undefined : 63
+
+Year-Month : 2015-05-18  State : Louisiana 
+Number of Matches : 7
+Handguns : 0
+Rifles : 3
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-18  State : Maine 
+Number of Matches : 4
+Handguns : 0
+Rifles : 3
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-18  State : Maryland 
+Number of Matches : 16
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 13
+
+Year-Month : 2015-05-18  State : Massachusetts 
+Number of Matches : 25
+Handguns : 8
+Rifles : 3
+Shotguns : 0
+Undefined : 14
+
+Year-Month : 2015-05-18  State : Michigan 
+Number of Matches : 156
+Handguns : 43
+Rifles : 38
+Shotguns : 14
+Undefined : 61
+
+Year-Month : 2015-05-18  State : Minnesota 
+Number of Matches : 182
+Handguns : 64
+Rifles : 57
+Shotguns : 15
+Undefined : 46
+
+Year-Month : 2015-05-18  State : Mississippi 
+Number of Matches : 29
+Handguns : 7
+Rifles : 2
+Shotguns : 1
+Undefined : 19
+
+Year-Month : 2015-05-18  State : Missouri 
+Number of Matches : 154
+Handguns : 33
+Rifles : 34
+Shotguns : 6
+Undefined : 81
+
+Year-Month : 2015-05-18  State : Montana
+Number of Matches : 23
+Handguns : 4
+Rifles : 5
+Shotguns : 0
+Undefined : 14
+
+Year-Month : 2015-05-18  State : Nebraska 
+Number of Matches : 47
+Handguns : 16
+Rifles : 4
+Shotguns : 0
+Undefined : 27
+
+Year-Month : 2015-05-18  State : Nevada 
+Number of Matches : 118
+Handguns : 15
+Rifles : 9
+Shotguns : 4
+Undefined : 90
+
+Year-Month : 2015-05-18  State : New Hampshire 
+Number of Matches : 55
+Handguns : 15
+Rifles : 7
+Shotguns : 1
+Undefined : 32
+
+Year-Month : 2015-05-18  State : New Jersey 
+Number of Matches : 27
+Handguns : 6
+Rifles : 12
+Shotguns : 2
+Undefined : 7
+
+Year-Month : 2015-05-18  State : New Mexico 
+Number of Matches : 37
+Handguns : 14
+Rifles : 8
+Shotguns : 2
+Undefined : 13
+
+Year-Month : 2015-05-18  State : New York 
+Number of Matches : 45
+Handguns : 5
+Rifles : 9
+Shotguns : 9
+Undefined : 22
+
+Year-Month : 2015-05-18  State : North Carolina 
+Number of Matches : 283
+Handguns : 98
+Rifles : 50
+Shotguns : 8
+Undefined : 127
+
+Year-Month : 2015-05-18  State : North Dakota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-18  State : Ohio 
+Number of Matches : 358
+Handguns : 127
+Rifles : 54
+Shotguns : 23
+Undefined : 154
+
+Year-Month : 2015-05-18  State : Oklahoma 
+Number of Matches : 357
+Handguns : 107
+Rifles : 55
+Shotguns : 10
+Undefined : 185
+
+Year-Month : 2015-05-18  State : Oregon 
+Number of Matches : 156
+Handguns : 32
+Rifles : 38
+Shotguns : 5
+Undefined : 81
+
+Year-Month : 2015-05-18  State : Pennsylvania
+Number of Matches : 102
+Handguns : 22
+Rifles : 24
+Shotguns : 5
+Undefined : 51
+
+Year-Month : 2015-05-18  State : Rhode Island 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-18  State : South Carolina 
+Number of Matches : 162
+Handguns : 63
+Rifles : 24
+Shotguns : 9
+Undefined : 66
+
+Year-Month : 2015-05-18  State : South Dakota 
+Number of Matches : 7
+Handguns : 2
+Rifles : 1
+Shotguns : 1
+Undefined : 3
+
+Year-Month : 2015-05-18  State : Tennessee 
+Number of Matches : 187
+Handguns : 65
+Rifles : 36
+Shotguns : 10
+Undefined : 76
+
+Year-Month : 2015-05-18  State : Texas 
+Number of Matches : 205
+Handguns : 59
+Rifles : 42
+Shotguns : 8
+Undefined : 96
+
+Year-Month : 2015-05-18  State : Utah 
+Number of Matches : 7
+Handguns : 0
+Rifles : 6
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-18  State : Vermont 
+Number of Matches : 10
+Handguns : 4
+Rifles : 2
+Shotguns : 1
+Undefined : 3
+
+Year-Month : 2015-05-18  State : Virginia 
+Number of Matches : 151
+Handguns : 30
+Rifles : 28
+Shotguns : 7
+Undefined : 86
+
+Year-Month : 2015-05-18  State : Washington 
+Number of Matches : 202
+Handguns : 42
+Rifles : 45
+Shotguns : 7
+Undefined : 108
+
+Year-Month : 2015-05-18  State : West Virginia 
+Number of Matches : 10
+Handguns : 1
+Rifles : 4
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-18  State : Wisconsin 
+Number of Matches : 155
+Handguns : 27
+Rifles : 32
+Shotguns : 7
+Undefined : 89
+
+Year-Month : 2015-05-18  State : Wyoming
+Number of Matches : 13
+Handguns : 7
+Rifles : 2
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-19  State : Alabama 
+Number of Matches : 111
+Handguns : 32
+Rifles : 13
+Shotguns : 4
+Undefined : 62
+
+Year-Month : 2015-05-19  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-19  State : Arizona 
+Number of Matches : 83
+Handguns : 18
+Rifles : 14
+Shotguns : 4
+Undefined : 47
+
+Year-Month : 2015-05-19  State : Arkansas 
+Number of Matches : 72
+Handguns : 16
+Rifles : 26
+Shotguns : 9
+Undefined : 21
+
+Year-Month : 2015-05-19  State : California 
+Number of Matches : 137
+Handguns : 39
+Rifles : 23
+Shotguns : 2
+Undefined : 73
+
+Year-Month : 2015-05-19  State : Colorado 
+Number of Matches : 239
+Handguns : 45
+Rifles : 39
+Shotguns : 5
+Undefined : 150
+
+Year-Month : 2015-05-19  State : Connecticut 
+Number of Matches : 16
+Handguns : 1
+Rifles : 2
+Shotguns : 1
+Undefined : 12
+
+Year-Month : 2015-05-19  State : Delaware 
+Number of Matches : 3
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-19  State : Florida 
+Number of Matches : 272
+Handguns : 64
+Rifles : 38
+Shotguns : 11
+Undefined : 159
+
+Year-Month : 2015-05-19  State : Georgia 
+Number of Matches : 106
+Handguns : 38
+Rifles : 19
+Shotguns : 9
+Undefined : 40
+
+Year-Month : 2015-05-19  State : Hawaii 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 1
+Undefined : 1
+
+Year-Month : 2015-05-19  State : Idaho 
+Number of Matches : 16
+Handguns : 4
+Rifles : 6
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-19  State : Illinois 
+Number of Matches : 126
+Handguns : 41
+Rifles : 18
+Shotguns : 5
+Undefined : 62
+
+Year-Month : 2015-05-19  State : Indiana 
+Number of Matches : 202
+Handguns : 44
+Rifles : 40
+Shotguns : 9
+Undefined : 109
+
+Year-Month : 2015-05-19  State : Iowa 
+Number of Matches : 18
+Handguns : 5
+Rifles : 5
+Shotguns : 1
+Undefined : 7
+
+Year-Month : 2015-05-19  State : Kansas 
+Number of Matches : 107
+Handguns : 31
+Rifles : 24
+Shotguns : 2
+Undefined : 50
+
+Year-Month : 2015-05-19  State : Kentucky 
+Number of Matches : 99
+Handguns : 32
+Rifles : 17
+Shotguns : 7
+Undefined : 43
+
+Year-Month : 2015-05-19  State : Louisiana 
+Number of Matches : 19
+Handguns : 4
+Rifles : 4
+Shotguns : 2
+Undefined : 9
+
+Year-Month : 2015-05-19  State : Maine 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-19  State : Maryland 
+Number of Matches : 23
+Handguns : 1
+Rifles : 6
+Shotguns : 4
+Undefined : 12
+
+Year-Month : 2015-05-19  State : Massachusetts 
+Number of Matches : 33
+Handguns : 8
+Rifles : 3
+Shotguns : 0
+Undefined : 22
+
+Year-Month : 2015-05-19  State : Michigan 
+Number of Matches : 169
+Handguns : 54
+Rifles : 33
+Shotguns : 9
+Undefined : 73
+
+Year-Month : 2015-05-19  State : Minnesota 
+Number of Matches : 114
+Handguns : 31
+Rifles : 24
+Shotguns : 3
+Undefined : 56
+
+Year-Month : 2015-05-19  State : Mississippi 
+Number of Matches : 23
+Handguns : 9
+Rifles : 5
+Shotguns : 1
+Undefined : 8
+
+Year-Month : 2015-05-19  State : Missouri 
+Number of Matches : 201
+Handguns : 59
+Rifles : 30
+Shotguns : 7
+Undefined : 105
+
+Year-Month : 2015-05-19  State : Montana
+Number of Matches : 37
+Handguns : 9
+Rifles : 13
+Shotguns : 2
+Undefined : 13
+
+Year-Month : 2015-05-19  State : Nebraska 
+Number of Matches : 29
+Handguns : 4
+Rifles : 2
+Shotguns : 3
+Undefined : 20
+
+Year-Month : 2015-05-19  State : Nevada 
+Number of Matches : 78
+Handguns : 14
+Rifles : 13
+Shotguns : 1
+Undefined : 50
+
+Year-Month : 2015-05-19  State : New Hampshire 
+Number of Matches : 53
+Handguns : 19
+Rifles : 7
+Shotguns : 1
+Undefined : 26
+
+Year-Month : 2015-05-19  State : New Jersey 
+Number of Matches : 25
+Handguns : 5
+Rifles : 6
+Shotguns : 4
+Undefined : 10
+
+Year-Month : 2015-05-19  State : New Mexico 
+Number of Matches : 56
+Handguns : 20
+Rifles : 10
+Shotguns : 2
+Undefined : 24
+
+Year-Month : 2015-05-19  State : New York 
+Number of Matches : 60
+Handguns : 8
+Rifles : 17
+Shotguns : 0
+Undefined : 35
+
+Year-Month : 2015-05-19  State : North Carolina 
+Number of Matches : 252
+Handguns : 58
+Rifles : 56
+Shotguns : 20
+Undefined : 118
+
+Year-Month : 2015-05-19  State : North Dakota 
+Number of Matches : 3
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-19  State : Ohio 
+Number of Matches : 363
+Handguns : 101
+Rifles : 68
+Shotguns : 25
+Undefined : 169
+
+Year-Month : 2015-05-19  State : Oklahoma 
+Number of Matches : 308
+Handguns : 93
+Rifles : 59
+Shotguns : 14
+Undefined : 142
+
+Year-Month : 2015-05-19  State : Oregon 
+Number of Matches : 185
+Handguns : 49
+Rifles : 45
+Shotguns : 5
+Undefined : 86
+
+Year-Month : 2015-05-19  State : Pennsylvania
+Number of Matches : 116
+Handguns : 40
+Rifles : 23
+Shotguns : 9
+Undefined : 44
+
+Year-Month : 2015-05-19  State : Rhode Island 
+Number of Matches : 22
+Handguns : 9
+Rifles : 1
+Shotguns : 0
+Undefined : 12
+
+Year-Month : 2015-05-19  State : South Carolina 
+Number of Matches : 165
+Handguns : 53
+Rifles : 26
+Shotguns : 10
+Undefined : 76
+
+Year-Month : 2015-05-19  State : South Dakota 
+Number of Matches : 13
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 10
+
+Year-Month : 2015-05-19  State : Tennessee 
+Number of Matches : 158
+Handguns : 50
+Rifles : 25
+Shotguns : 10
+Undefined : 73
+
+Year-Month : 2015-05-19  State : Texas 
+Number of Matches : 195
+Handguns : 57
+Rifles : 29
+Shotguns : 8
+Undefined : 101
+
+Year-Month : 2015-05-19  State : Utah 
+Number of Matches : 19
+Handguns : 0
+Rifles : 10
+Shotguns : 2
+Undefined : 7
+
+Year-Month : 2015-05-19  State : Vermont 
+Number of Matches : 34
+Handguns : 7
+Rifles : 7
+Shotguns : 0
+Undefined : 20
+
+Year-Month : 2015-05-19  State : Virginia 
+Number of Matches : 127
+Handguns : 32
+Rifles : 23
+Shotguns : 4
+Undefined : 68
+
+Year-Month : 2015-05-19  State : Washington 
+Number of Matches : 197
+Handguns : 31
+Rifles : 28
+Shotguns : 5
+Undefined : 133
+
+Year-Month : 2015-05-19  State : West Virginia 
+Number of Matches : 14
+Handguns : 3
+Rifles : 4
+Shotguns : 0
+Undefined : 7
+
+Year-Month : 2015-05-19  State : Wisconsin 
+Number of Matches : 143
+Handguns : 30
+Rifles : 23
+Shotguns : 9
+Undefined : 81
+
+Year-Month : 2015-05-19  State : Wyoming
+Number of Matches : 9
+Handguns : 3
+Rifles : 2
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-20  State : Alabama 
+Number of Matches : 123
+Handguns : 46
+Rifles : 22
+Shotguns : 7
+Undefined : 48
+
+Year-Month : 2015-05-20  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-20  State : Arizona 
+Number of Matches : 85
+Handguns : 19
+Rifles : 19
+Shotguns : 3
+Undefined : 44
+
+Year-Month : 2015-05-20  State : Arkansas 
+Number of Matches : 68
+Handguns : 21
+Rifles : 16
+Shotguns : 7
+Undefined : 24
+
+Year-Month : 2015-05-20  State : California 
+Number of Matches : 104
+Handguns : 33
+Rifles : 12
+Shotguns : 4
+Undefined : 55
+
+Year-Month : 2015-05-20  State : Colorado 
+Number of Matches : 300
+Handguns : 51
+Rifles : 29
+Shotguns : 7
+Undefined : 213
+
+Year-Month : 2015-05-20  State : Connecticut 
+Number of Matches : 2
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-20  State : Delaware 
+Number of Matches : 10
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 8
+
+Year-Month : 2015-05-20  State : Florida 
+Number of Matches : 275
+Handguns : 85
+Rifles : 46
+Shotguns : 12
+Undefined : 132
+
+Year-Month : 2015-05-20  State : Georgia 
+Number of Matches : 114
+Handguns : 38
+Rifles : 20
+Shotguns : 6
+Undefined : 50
+
+Year-Month : 2015-05-20  State : Hawaii 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-20  State : Idaho 
+Number of Matches : 8
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 7
+
+Year-Month : 2015-05-20  State : Illinois 
+Number of Matches : 122
+Handguns : 42
+Rifles : 23
+Shotguns : 6
+Undefined : 51
+
+Year-Month : 2015-05-20  State : Indiana 
+Number of Matches : 248
+Handguns : 82
+Rifles : 37
+Shotguns : 11
+Undefined : 118
+
+Year-Month : 2015-05-20  State : Iowa 
+Number of Matches : 21
+Handguns : 4
+Rifles : 4
+Shotguns : 3
+Undefined : 10
+
+Year-Month : 2015-05-20  State : Kansas 
+Number of Matches : 144
+Handguns : 36
+Rifles : 18
+Shotguns : 8
+Undefined : 82
+
+Year-Month : 2015-05-20  State : Kentucky 
+Number of Matches : 133
+Handguns : 40
+Rifles : 27
+Shotguns : 8
+Undefined : 58
+
+Year-Month : 2015-05-20  State : Louisiana 
+Number of Matches : 16
+Handguns : 2
+Rifles : 4
+Shotguns : 4
+Undefined : 6
+
+Year-Month : 2015-05-20  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-20  State : Maryland 
+Number of Matches : 16
+Handguns : 2
+Rifles : 4
+Shotguns : 1
+Undefined : 9
+
+Year-Month : 2015-05-20  State : Massachusetts 
+Number of Matches : 50
+Handguns : 16
+Rifles : 6
+Shotguns : 3
+Undefined : 25
+
+Year-Month : 2015-05-20  State : Michigan 
+Number of Matches : 157
+Handguns : 48
+Rifles : 29
+Shotguns : 14
+Undefined : 66
+
+Year-Month : 2015-05-20  State : Minnesota 
+Number of Matches : 130
+Handguns : 27
+Rifles : 22
+Shotguns : 11
+Undefined : 70
+
+Year-Month : 2015-05-20  State : Mississippi 
+Number of Matches : 32
+Handguns : 8
+Rifles : 7
+Shotguns : 5
+Undefined : 12
+
+Year-Month : 2015-05-20  State : Missouri 
+Number of Matches : 225
+Handguns : 53
+Rifles : 26
+Shotguns : 12
+Undefined : 134
+
+Year-Month : 2015-05-20  State : Montana
+Number of Matches : 57
+Handguns : 13
+Rifles : 18
+Shotguns : 4
+Undefined : 22
+
+Year-Month : 2015-05-20  State : Nebraska 
+Number of Matches : 42
+Handguns : 13
+Rifles : 5
+Shotguns : 2
+Undefined : 22
+
+Year-Month : 2015-05-20  State : Nevada 
+Number of Matches : 83
+Handguns : 9
+Rifles : 13
+Shotguns : 5
+Undefined : 56
+
+Year-Month : 2015-05-20  State : New Hampshire 
+Number of Matches : 54
+Handguns : 17
+Rifles : 5
+Shotguns : 4
+Undefined : 28
+
+Year-Month : 2015-05-20  State : New Jersey 
+Number of Matches : 22
+Handguns : 6
+Rifles : 3
+Shotguns : 2
+Undefined : 11
+
+Year-Month : 2015-05-20  State : New Mexico 
+Number of Matches : 30
+Handguns : 8
+Rifles : 11
+Shotguns : 0
+Undefined : 11
+
+Year-Month : 2015-05-20  State : New York 
+Number of Matches : 45
+Handguns : 8
+Rifles : 6
+Shotguns : 3
+Undefined : 28
+
+Year-Month : 2015-05-20  State : North Carolina 
+Number of Matches : 280
+Handguns : 90
+Rifles : 54
+Shotguns : 17
+Undefined : 119
+
+Year-Month : 2015-05-20  State : North Dakota 
+Number of Matches : 4
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-20  State : Ohio 
+Number of Matches : 443
+Handguns : 143
+Rifles : 74
+Shotguns : 26
+Undefined : 200
+
+Year-Month : 2015-05-20  State : Oklahoma 
+Number of Matches : 402
+Handguns : 146
+Rifles : 85
+Shotguns : 27
+Undefined : 144
+
+Year-Month : 2015-05-20  State : Oregon 
+Number of Matches : 198
+Handguns : 48
+Rifles : 33
+Shotguns : 9
+Undefined : 108
+
+Year-Month : 2015-05-20  State : Pennsylvania
+Number of Matches : 120
+Handguns : 46
+Rifles : 16
+Shotguns : 5
+Undefined : 53
+
+Year-Month : 2015-05-20  State : Rhode Island 
+Number of Matches : 10
+Handguns : 4
+Rifles : 2
+Shotguns : 1
+Undefined : 3
+
+Year-Month : 2015-05-20  State : South Carolina 
+Number of Matches : 201
+Handguns : 55
+Rifles : 45
+Shotguns : 17
+Undefined : 84
+
+Year-Month : 2015-05-20  State : South Dakota 
+Number of Matches : 8
+Handguns : 0
+Rifles : 5
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-20  State : Tennessee 
+Number of Matches : 203
+Handguns : 55
+Rifles : 32
+Shotguns : 13
+Undefined : 103
+
+Year-Month : 2015-05-20  State : Texas 
+Number of Matches : 153
+Handguns : 52
+Rifles : 23
+Shotguns : 8
+Undefined : 70
+
+Year-Month : 2015-05-20  State : Utah 
+Number of Matches : 9
+Handguns : 3
+Rifles : 2
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-20  State : Vermont 
+Number of Matches : 9
+Handguns : 2
+Rifles : 2
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-20  State : Virginia 
+Number of Matches : 127
+Handguns : 31
+Rifles : 21
+Shotguns : 6
+Undefined : 69
+
+Year-Month : 2015-05-20  State : Washington 
+Number of Matches : 195
+Handguns : 41
+Rifles : 32
+Shotguns : 10
+Undefined : 112
+
+Year-Month : 2015-05-20  State : West Virginia 
+Number of Matches : 10
+Handguns : 1
+Rifles : 2
+Shotguns : 2
+Undefined : 5
+
+Year-Month : 2015-05-20  State : Wisconsin 
+Number of Matches : 195
+Handguns : 46
+Rifles : 42
+Shotguns : 18
+Undefined : 89
+
+Year-Month : 2015-05-20  State : Wyoming
+Number of Matches : 4
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-21  State : Alabama 
+Number of Matches : 136
+Handguns : 36
+Rifles : 31
+Shotguns : 10
+Undefined : 59
+
+Year-Month : 2015-05-21  State : Alaska 
+Number of Matches : 3
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-21  State : Arizona 
+Number of Matches : 94
+Handguns : 42
+Rifles : 14
+Shotguns : 3
+Undefined : 35
+
+Year-Month : 2015-05-21  State : Arkansas 
+Number of Matches : 70
+Handguns : 11
+Rifles : 14
+Shotguns : 4
+Undefined : 41
+
+Year-Month : 2015-05-21  State : California 
+Number of Matches : 166
+Handguns : 42
+Rifles : 31
+Shotguns : 5
+Undefined : 88
+
+Year-Month : 2015-05-21  State : Colorado 
+Number of Matches : 291
+Handguns : 46
+Rifles : 46
+Shotguns : 16
+Undefined : 183
+
+Year-Month : 2015-05-21  State : Connecticut 
+Number of Matches : 14
+Handguns : 3
+Rifles : 2
+Shotguns : 0
+Undefined : 9
+
+Year-Month : 2015-05-21  State : Delaware 
+Number of Matches : 4
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-21  State : Florida 
+Number of Matches : 274
+Handguns : 77
+Rifles : 42
+Shotguns : 21
+Undefined : 134
+
+Year-Month : 2015-05-21  State : Georgia 
+Number of Matches : 103
+Handguns : 24
+Rifles : 26
+Shotguns : 7
+Undefined : 46
+
+Year-Month : 2015-05-21  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-21  State : Idaho 
+Number of Matches : 4
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-21  State : Illinois 
+Number of Matches : 67
+Handguns : 22
+Rifles : 14
+Shotguns : 2
+Undefined : 29
+
+Year-Month : 2015-05-21  State : Indiana 
+Number of Matches : 172
+Handguns : 58
+Rifles : 21
+Shotguns : 4
+Undefined : 89
+
+Year-Month : 2015-05-21  State : Iowa 
+Number of Matches : 17
+Handguns : 4
+Rifles : 3
+Shotguns : 1
+Undefined : 9
+
+Year-Month : 2015-05-21  State : Kansas 
+Number of Matches : 121
+Handguns : 29
+Rifles : 26
+Shotguns : 9
+Undefined : 57
+
+Year-Month : 2015-05-21  State : Kentucky 
+Number of Matches : 137
+Handguns : 41
+Rifles : 28
+Shotguns : 9
+Undefined : 59
+
+Year-Month : 2015-05-21  State : Louisiana 
+Number of Matches : 10
+Handguns : 5
+Rifles : 1
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-21  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-21  State : Maryland 
+Number of Matches : 12
+Handguns : 0
+Rifles : 3
+Shotguns : 1
+Undefined : 8
+
+Year-Month : 2015-05-21  State : Massachusetts 
+Number of Matches : 35
+Handguns : 11
+Rifles : 3
+Shotguns : 3
+Undefined : 18
+
+Year-Month : 2015-05-21  State : Michigan 
+Number of Matches : 137
+Handguns : 37
+Rifles : 26
+Shotguns : 12
+Undefined : 62
+
+Year-Month : 2015-05-21  State : Minnesota 
+Number of Matches : 177
+Handguns : 49
+Rifles : 31
+Shotguns : 14
+Undefined : 83
+
+Year-Month : 2015-05-21  State : Mississippi 
+Number of Matches : 21
+Handguns : 5
+Rifles : 9
+Shotguns : 2
+Undefined : 5
+
+Year-Month : 2015-05-21  State : Missouri 
+Number of Matches : 180
+Handguns : 53
+Rifles : 43
+Shotguns : 8
+Undefined : 76
+
+Year-Month : 2015-05-21  State : Montana
+Number of Matches : 25
+Handguns : 4
+Rifles : 9
+Shotguns : 0
+Undefined : 12
+
+Year-Month : 2015-05-21  State : Nebraska 
+Number of Matches : 55
+Handguns : 16
+Rifles : 9
+Shotguns : 2
+Undefined : 28
+
+Year-Month : 2015-05-21  State : Nevada 
+Number of Matches : 55
+Handguns : 16
+Rifles : 11
+Shotguns : 2
+Undefined : 26
+
+Year-Month : 2015-05-21  State : New Hampshire 
+Number of Matches : 39
+Handguns : 9
+Rifles : 9
+Shotguns : 0
+Undefined : 21
+
+Year-Month : 2015-05-21  State : New Jersey 
+Number of Matches : 21
+Handguns : 6
+Rifles : 6
+Shotguns : 1
+Undefined : 8
+
+Year-Month : 2015-05-21  State : New Mexico 
+Number of Matches : 35
+Handguns : 12
+Rifles : 5
+Shotguns : 1
+Undefined : 17
+
+Year-Month : 2015-05-21  State : New York 
+Number of Matches : 38
+Handguns : 3
+Rifles : 5
+Shotguns : 2
+Undefined : 28
+
+Year-Month : 2015-05-21  State : North Carolina 
+Number of Matches : 282
+Handguns : 76
+Rifles : 56
+Shotguns : 17
+Undefined : 133
+
+Year-Month : 2015-05-21  State : North Dakota 
+Number of Matches : 2
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-21  State : Ohio 
+Number of Matches : 386
+Handguns : 115
+Rifles : 69
+Shotguns : 18
+Undefined : 184
+
+Year-Month : 2015-05-21  State : Oklahoma 
+Number of Matches : 292
+Handguns : 77
+Rifles : 52
+Shotguns : 26
+Undefined : 137
+
+Year-Month : 2015-05-21  State : Oregon 
+Number of Matches : 179
+Handguns : 18
+Rifles : 48
+Shotguns : 6
+Undefined : 107
+
+Year-Month : 2015-05-21  State : Pennsylvania
+Number of Matches : 118
+Handguns : 26
+Rifles : 24
+Shotguns : 4
+Undefined : 64
+
+Year-Month : 2015-05-21  State : Rhode Island 
+Number of Matches : 7
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-21  State : South Carolina 
+Number of Matches : 164
+Handguns : 50
+Rifles : 25
+Shotguns : 8
+Undefined : 81
+
+Year-Month : 2015-05-21  State : South Dakota 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-21  State : Tennessee 
+Number of Matches : 228
+Handguns : 60
+Rifles : 43
+Shotguns : 7
+Undefined : 118
+
+Year-Month : 2015-05-21  State : Texas 
+Number of Matches : 177
+Handguns : 51
+Rifles : 34
+Shotguns : 8
+Undefined : 84
+
+Year-Month : 2015-05-21  State : Utah 
+Number of Matches : 6
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-21  State : Vermont 
+Number of Matches : 20
+Handguns : 3
+Rifles : 3
+Shotguns : 1
+Undefined : 13
+
+Year-Month : 2015-05-21  State : Virginia 
+Number of Matches : 118
+Handguns : 33
+Rifles : 16
+Shotguns : 10
+Undefined : 59
+
+Year-Month : 2015-05-21  State : Washington 
+Number of Matches : 177
+Handguns : 27
+Rifles : 35
+Shotguns : 8
+Undefined : 107
+
+Year-Month : 2015-05-21  State : West Virginia 
+Number of Matches : 10
+Handguns : 4
+Rifles : 0
+Shotguns : 1
+Undefined : 5
+
+Year-Month : 2015-05-21  State : Wisconsin 
+Number of Matches : 131
+Handguns : 23
+Rifles : 20
+Shotguns : 11
+Undefined : 77
+
+Year-Month : 2015-05-21  State : Wyoming
+Number of Matches : 3
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-22  State : Alabama 
+Number of Matches : 121
+Handguns : 33
+Rifles : 24
+Shotguns : 10
+Undefined : 54
+
+Year-Month : 2015-05-22  State : Alaska 
+Number of Matches : 5
+Handguns : 1
+Rifles : 2
+Shotguns : 1
+Undefined : 1
+
+Year-Month : 2015-05-22  State : Arizona 
+Number of Matches : 90
+Handguns : 27
+Rifles : 16
+Shotguns : 3
+Undefined : 44
+
+Year-Month : 2015-05-22  State : Arkansas 
+Number of Matches : 87
+Handguns : 15
+Rifles : 16
+Shotguns : 5
+Undefined : 51
+
+Year-Month : 2015-05-22  State : California 
+Number of Matches : 169
+Handguns : 51
+Rifles : 27
+Shotguns : 10
+Undefined : 81
+
+Year-Month : 2015-05-22  State : Colorado 
+Number of Matches : 317
+Handguns : 60
+Rifles : 55
+Shotguns : 18
+Undefined : 184
+
+Year-Month : 2015-05-22  State : Connecticut 
+Number of Matches : 5
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-22  State : Delaware 
+Number of Matches : 3
+Handguns : 1
+Rifles : 0
+Shotguns : 1
+Undefined : 1
+
+Year-Month : 2015-05-22  State : Florida 
+Number of Matches : 285
+Handguns : 82
+Rifles : 53
+Shotguns : 6
+Undefined : 144
+
+Year-Month : 2015-05-22  State : Georgia 
+Number of Matches : 91
+Handguns : 18
+Rifles : 33
+Shotguns : 3
+Undefined : 37
+
+Year-Month : 2015-05-22  State : Hawaii 
+Number of Matches : 8
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 8
+
+Year-Month : 2015-05-22  State : Idaho 
+Number of Matches : 8
+Handguns : 4
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-22  State : Illinois 
+Number of Matches : 97
+Handguns : 27
+Rifles : 19
+Shotguns : 1
+Undefined : 50
+
+Year-Month : 2015-05-22  State : Indiana 
+Number of Matches : 238
+Handguns : 86
+Rifles : 33
+Shotguns : 12
+Undefined : 107
+
+Year-Month : 2015-05-22  State : Iowa 
+Number of Matches : 18
+Handguns : 4
+Rifles : 4
+Shotguns : 1
+Undefined : 9
+
+Year-Month : 2015-05-22  State : Kansas 
+Number of Matches : 116
+Handguns : 31
+Rifles : 14
+Shotguns : 3
+Undefined : 68
+
+Year-Month : 2015-05-22  State : Kentucky 
+Number of Matches : 131
+Handguns : 33
+Rifles : 19
+Shotguns : 8
+Undefined : 71
+
+Year-Month : 2015-05-22  State : Louisiana 
+Number of Matches : 12
+Handguns : 2
+Rifles : 3
+Shotguns : 1
+Undefined : 6
+
+Year-Month : 2015-05-22  State : Maine 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-22  State : Maryland 
+Number of Matches : 10
+Handguns : 2
+Rifles : 2
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-22  State : Massachusetts 
+Number of Matches : 27
+Handguns : 4
+Rifles : 4
+Shotguns : 1
+Undefined : 18
+
+Year-Month : 2015-05-22  State : Michigan 
+Number of Matches : 135
+Handguns : 38
+Rifles : 21
+Shotguns : 9
+Undefined : 67
+
+Year-Month : 2015-05-22  State : Minnesota 
+Number of Matches : 114
+Handguns : 33
+Rifles : 21
+Shotguns : 5
+Undefined : 55
+
+Year-Month : 2015-05-22  State : Mississippi 
+Number of Matches : 18
+Handguns : 5
+Rifles : 4
+Shotguns : 0
+Undefined : 9
+
+Year-Month : 2015-05-22  State : Missouri 
+Number of Matches : 165
+Handguns : 49
+Rifles : 28
+Shotguns : 12
+Undefined : 76
+
+Year-Month : 2015-05-22  State : Montana
+Number of Matches : 28
+Handguns : 11
+Rifles : 6
+Shotguns : 2
+Undefined : 9
+
+Year-Month : 2015-05-22  State : Nebraska 
+Number of Matches : 43
+Handguns : 10
+Rifles : 5
+Shotguns : 2
+Undefined : 26
+
+Year-Month : 2015-05-22  State : Nevada 
+Number of Matches : 80
+Handguns : 17
+Rifles : 7
+Shotguns : 6
+Undefined : 50
+
+Year-Month : 2015-05-22  State : New Hampshire 
+Number of Matches : 47
+Handguns : 8
+Rifles : 9
+Shotguns : 3
+Undefined : 27
+
+Year-Month : 2015-05-22  State : New Jersey 
+Number of Matches : 26
+Handguns : 9
+Rifles : 7
+Shotguns : 3
+Undefined : 7
+
+Year-Month : 2015-05-22  State : New Mexico 
+Number of Matches : 40
+Handguns : 10
+Rifles : 7
+Shotguns : 0
+Undefined : 23
+
+Year-Month : 2015-05-22  State : New York 
+Number of Matches : 34
+Handguns : 8
+Rifles : 2
+Shotguns : 2
+Undefined : 22
+
+Year-Month : 2015-05-22  State : North Carolina 
+Number of Matches : 271
+Handguns : 87
+Rifles : 43
+Shotguns : 13
+Undefined : 128
+
+Year-Month : 2015-05-22  State : North Dakota 
+Number of Matches : 2
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-22  State : Ohio 
+Number of Matches : 375
+Handguns : 108
+Rifles : 53
+Shotguns : 33
+Undefined : 181
+
+Year-Month : 2015-05-22  State : Oklahoma 
+Number of Matches : 270
+Handguns : 56
+Rifles : 54
+Shotguns : 24
+Undefined : 136
+
+Year-Month : 2015-05-22  State : Oregon 
+Number of Matches : 184
+Handguns : 47
+Rifles : 28
+Shotguns : 4
+Undefined : 105
+
+Year-Month : 2015-05-22  State : Pennsylvania
+Number of Matches : 128
+Handguns : 31
+Rifles : 23
+Shotguns : 6
+Undefined : 68
+
+Year-Month : 2015-05-22  State : Rhode Island 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-22  State : South Carolina 
+Number of Matches : 177
+Handguns : 65
+Rifles : 28
+Shotguns : 8
+Undefined : 76
+
+Year-Month : 2015-05-22  State : South Dakota 
+Number of Matches : 4
+Handguns : 2
+Rifles : 2
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-22  State : Tennessee 
+Number of Matches : 188
+Handguns : 48
+Rifles : 28
+Shotguns : 13
+Undefined : 99
+
+Year-Month : 2015-05-22  State : Texas 
+Number of Matches : 190
+Handguns : 56
+Rifles : 35
+Shotguns : 11
+Undefined : 88
+
+Year-Month : 2015-05-22  State : Utah 
+Number of Matches : 5
+Handguns : 2
+Rifles : 0
+Shotguns : 1
+Undefined : 2
+
+Year-Month : 2015-05-22  State : Vermont 
+Number of Matches : 30
+Handguns : 9
+Rifles : 4
+Shotguns : 0
+Undefined : 17
+
+Year-Month : 2015-05-22  State : Virginia 
+Number of Matches : 148
+Handguns : 37
+Rifles : 25
+Shotguns : 2
+Undefined : 84
+
+Year-Month : 2015-05-22  State : Washington 
+Number of Matches : 233
+Handguns : 56
+Rifles : 35
+Shotguns : 8
+Undefined : 134
+
+Year-Month : 2015-05-22  State : West Virginia 
+Number of Matches : 12
+Handguns : 1
+Rifles : 0
+Shotguns : 1
+Undefined : 10
+
+Year-Month : 2015-05-22  State : Wisconsin 
+Number of Matches : 155
+Handguns : 32
+Rifles : 25
+Shotguns : 11
+Undefined : 87
+
+Year-Month : 2015-05-22  State : Wyoming
+Number of Matches : 8
+Handguns : 3
+Rifles : 1
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-23  State : Alabama 
+Number of Matches : 126
+Handguns : 30
+Rifles : 28
+Shotguns : 2
+Undefined : 66
+
+Year-Month : 2015-05-23  State : Alaska 
+Number of Matches : 4
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-23  State : Arizona 
+Number of Matches : 77
+Handguns : 14
+Rifles : 18
+Shotguns : 4
+Undefined : 41
+
+Year-Month : 2015-05-23  State : Arkansas 
+Number of Matches : 49
+Handguns : 11
+Rifles : 9
+Shotguns : 3
+Undefined : 26
+
+Year-Month : 2015-05-23  State : California 
+Number of Matches : 134
+Handguns : 34
+Rifles : 21
+Shotguns : 4
+Undefined : 75
+
+Year-Month : 2015-05-23  State : Colorado 
+Number of Matches : 302
+Handguns : 54
+Rifles : 44
+Shotguns : 11
+Undefined : 193
+
+Year-Month : 2015-05-23  State : Connecticut 
+Number of Matches : 12
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 10
+
+Year-Month : 2015-05-23  State : Delaware 
+Number of Matches : 4
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-23  State : Florida 
+Number of Matches : 262
+Handguns : 61
+Rifles : 55
+Shotguns : 8
+Undefined : 138
+
+Year-Month : 2015-05-23  State : Georgia 
+Number of Matches : 92
+Handguns : 23
+Rifles : 21
+Shotguns : 5
+Undefined : 43
+
+Year-Month : 2015-05-23  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-05-23  State : Idaho 
+Number of Matches : 14
+Handguns : 7
+Rifles : 2
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-23  State : Illinois 
+Number of Matches : 87
+Handguns : 21
+Rifles : 17
+Shotguns : 6
+Undefined : 43
+
+Year-Month : 2015-05-23  State : Indiana 
+Number of Matches : 204
+Handguns : 61
+Rifles : 29
+Shotguns : 14
+Undefined : 100
+
+Year-Month : 2015-05-23  State : Iowa 
+Number of Matches : 20
+Handguns : 7
+Rifles : 1
+Shotguns : 2
+Undefined : 10
+
+Year-Month : 2015-05-23  State : Kansas 
+Number of Matches : 157
+Handguns : 24
+Rifles : 25
+Shotguns : 9
+Undefined : 99
+
+Year-Month : 2015-05-23  State : Kentucky 
+Number of Matches : 103
+Handguns : 32
+Rifles : 15
+Shotguns : 7
+Undefined : 49
+
+Year-Month : 2015-05-23  State : Louisiana 
+Number of Matches : 9
+Handguns : 2
+Rifles : 1
+Shotguns : 1
+Undefined : 5
+
+Year-Month : 2015-05-23  State : Maine 
+Number of Matches : 4
+Handguns : 3
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-23  State : Maryland 
+Number of Matches : 14
+Handguns : 1
+Rifles : 2
+Shotguns : 2
+Undefined : 9
+
+Year-Month : 2015-05-23  State : Massachusetts 
+Number of Matches : 35
+Handguns : 7
+Rifles : 6
+Shotguns : 1
+Undefined : 21
+
+Year-Month : 2015-05-23  State : Michigan 
+Number of Matches : 182
+Handguns : 48
+Rifles : 34
+Shotguns : 11
+Undefined : 89
+
+Year-Month : 2015-05-23  State : Minnesota 
+Number of Matches : 151
+Handguns : 29
+Rifles : 21
+Shotguns : 21
+Undefined : 80
+
+Year-Month : 2015-05-23  State : Mississippi 
+Number of Matches : 27
+Handguns : 10
+Rifles : 7
+Shotguns : 1
+Undefined : 9
+
+Year-Month : 2015-05-23  State : Missouri 
+Number of Matches : 198
+Handguns : 50
+Rifles : 49
+Shotguns : 12
+Undefined : 87
+
+Year-Month : 2015-05-23  State : Montana
+Number of Matches : 46
+Handguns : 8
+Rifles : 10
+Shotguns : 1
+Undefined : 27
+
+Year-Month : 2015-05-23  State : Nebraska 
+Number of Matches : 42
+Handguns : 13
+Rifles : 5
+Shotguns : 2
+Undefined : 22
+
+Year-Month : 2015-05-23  State : Nevada 
+Number of Matches : 57
+Handguns : 7
+Rifles : 10
+Shotguns : 3
+Undefined : 37
+
+Year-Month : 2015-05-23  State : New Hampshire 
+Number of Matches : 37
+Handguns : 8
+Rifles : 7
+Shotguns : 1
+Undefined : 21
+
+Year-Month : 2015-05-23  State : New Jersey 
+Number of Matches : 12
+Handguns : 2
+Rifles : 5
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-23  State : New Mexico 
+Number of Matches : 31
+Handguns : 10
+Rifles : 3
+Shotguns : 0
+Undefined : 18
+
+Year-Month : 2015-05-23  State : New York 
+Number of Matches : 39
+Handguns : 8
+Rifles : 7
+Shotguns : 1
+Undefined : 23
+
+Year-Month : 2015-05-23  State : North Carolina 
+Number of Matches : 247
+Handguns : 70
+Rifles : 48
+Shotguns : 9
+Undefined : 120
+
+Year-Month : 2015-05-23  State : North Dakota 
+Number of Matches : 3
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-23  State : Ohio 
+Number of Matches : 348
+Handguns : 109
+Rifles : 44
+Shotguns : 14
+Undefined : 181
+
+Year-Month : 2015-05-23  State : Oklahoma 
+Number of Matches : 253
+Handguns : 73
+Rifles : 49
+Shotguns : 14
+Undefined : 117
+
+Year-Month : 2015-05-23  State : Oregon 
+Number of Matches : 155
+Handguns : 38
+Rifles : 33
+Shotguns : 6
+Undefined : 78
+
+Year-Month : 2015-05-23  State : Pennsylvania
+Number of Matches : 111
+Handguns : 35
+Rifles : 28
+Shotguns : 7
+Undefined : 41
+
+Year-Month : 2015-05-23  State : Rhode Island 
+Number of Matches : 3
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-23  State : South Carolina 
+Number of Matches : 166
+Handguns : 47
+Rifles : 31
+Shotguns : 10
+Undefined : 78
+
+Year-Month : 2015-05-23  State : South Dakota 
+Number of Matches : 3
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-23  State : Tennessee 
+Number of Matches : 189
+Handguns : 56
+Rifles : 36
+Shotguns : 8
+Undefined : 89
+
+Year-Month : 2015-05-23  State : Texas 
+Number of Matches : 174
+Handguns : 65
+Rifles : 32
+Shotguns : 7
+Undefined : 70
+
+Year-Month : 2015-05-23  State : Utah 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-23  State : Vermont 
+Number of Matches : 19
+Handguns : 5
+Rifles : 2
+Shotguns : 2
+Undefined : 10
+
+Year-Month : 2015-05-23  State : Virginia 
+Number of Matches : 136
+Handguns : 21
+Rifles : 23
+Shotguns : 3
+Undefined : 89
+
+Year-Month : 2015-05-23  State : Washington 
+Number of Matches : 199
+Handguns : 26
+Rifles : 33
+Shotguns : 8
+Undefined : 132
+
+Year-Month : 2015-05-23  State : West Virginia 
+Number of Matches : 8
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-23  State : Wisconsin 
+Number of Matches : 148
+Handguns : 27
+Rifles : 30
+Shotguns : 12
+Undefined : 79
+
+Year-Month : 2015-05-23  State : Wyoming
+Number of Matches : 14
+Handguns : 4
+Rifles : 1
+Shotguns : 1
+Undefined : 8
+
+Year-Month : 2015-05-24  State : Alabama 
+Number of Matches : 93
+Handguns : 29
+Rifles : 20
+Shotguns : 6
+Undefined : 38
+
+Year-Month : 2015-05-24  State : Alaska 
+Number of Matches : 6
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-24  State : Arizona 
+Number of Matches : 55
+Handguns : 12
+Rifles : 9
+Shotguns : 1
+Undefined : 33
+
+Year-Month : 2015-05-24  State : Arkansas 
+Number of Matches : 55
+Handguns : 13
+Rifles : 7
+Shotguns : 5
+Undefined : 30
+
+Year-Month : 2015-05-24  State : California 
+Number of Matches : 115
+Handguns : 30
+Rifles : 16
+Shotguns : 4
+Undefined : 65
+
+Year-Month : 2015-05-24  State : Colorado 
+Number of Matches : 171
+Handguns : 32
+Rifles : 18
+Shotguns : 6
+Undefined : 115
+
+Year-Month : 2015-05-24  State : Connecticut 
+Number of Matches : 9
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-24  State : Delaware 
+Number of Matches : 3
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-24  State : Florida 
+Number of Matches : 219
+Handguns : 74
+Rifles : 34
+Shotguns : 4
+Undefined : 107
+
+Year-Month : 2015-05-24  State : Georgia 
+Number of Matches : 100
+Handguns : 25
+Rifles : 10
+Shotguns : 6
+Undefined : 59
+
+Year-Month : 2015-05-24  State : Hawaii 
+Number of Matches : 4
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-24  State : Idaho 
+Number of Matches : 13
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 10
+
+Year-Month : 2015-05-24  State : Illinois 
+Number of Matches : 73
+Handguns : 12
+Rifles : 11
+Shotguns : 6
+Undefined : 44
+
+Year-Month : 2015-05-24  State : Indiana 
+Number of Matches : 155
+Handguns : 46
+Rifles : 19
+Shotguns : 7
+Undefined : 83
+
+Year-Month : 2015-05-24  State : Iowa 
+Number of Matches : 26
+Handguns : 6
+Rifles : 8
+Shotguns : 4
+Undefined : 8
+
+Year-Month : 2015-05-24  State : Kansas 
+Number of Matches : 77
+Handguns : 23
+Rifles : 13
+Shotguns : 6
+Undefined : 35
+
+Year-Month : 2015-05-24  State : Kentucky 
+Number of Matches : 112
+Handguns : 25
+Rifles : 16
+Shotguns : 4
+Undefined : 67
+
+Year-Month : 2015-05-24  State : Louisiana 
+Number of Matches : 7
+Handguns : 2
+Rifles : 2
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-24  State : Maine 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-24  State : Maryland 
+Number of Matches : 8
+Handguns : 0
+Rifles : 1
+Shotguns : 1
+Undefined : 6
+
+Year-Month : 2015-05-24  State : Massachusetts 
+Number of Matches : 24
+Handguns : 4
+Rifles : 2
+Shotguns : 1
+Undefined : 17
+
+Year-Month : 2015-05-24  State : Michigan 
+Number of Matches : 126
+Handguns : 30
+Rifles : 28
+Shotguns : 11
+Undefined : 57
+
+Year-Month : 2015-05-24  State : Minnesota 
+Number of Matches : 94
+Handguns : 20
+Rifles : 14
+Shotguns : 6
+Undefined : 54
+
+Year-Month : 2015-05-24  State : Mississippi 
+Number of Matches : 39
+Handguns : 3
+Rifles : 4
+Shotguns : 2
+Undefined : 30
+
+Year-Month : 2015-05-24  State : Missouri 
+Number of Matches : 171
+Handguns : 42
+Rifles : 25
+Shotguns : 6
+Undefined : 98
+
+Year-Month : 2015-05-24  State : Montana
+Number of Matches : 18
+Handguns : 6
+Rifles : 4
+Shotguns : 0
+Undefined : 8
+
+Year-Month : 2015-05-24  State : Nebraska 
+Number of Matches : 15
+Handguns : 2
+Rifles : 6
+Shotguns : 1
+Undefined : 6
+
+Year-Month : 2015-05-24  State : Nevada 
+Number of Matches : 22
+Handguns : 1
+Rifles : 7
+Shotguns : 1
+Undefined : 13
+
+Year-Month : 2015-05-24  State : New Hampshire 
+Number of Matches : 35
+Handguns : 12
+Rifles : 6
+Shotguns : 2
+Undefined : 15
+
+Year-Month : 2015-05-24  State : New Jersey 
+Number of Matches : 12
+Handguns : 2
+Rifles : 3
+Shotguns : 0
+Undefined : 7
+
+Year-Month : 2015-05-24  State : New Mexico 
+Number of Matches : 40
+Handguns : 17
+Rifles : 4
+Shotguns : 0
+Undefined : 19
+
+Year-Month : 2015-05-24  State : New York 
+Number of Matches : 32
+Handguns : 9
+Rifles : 7
+Shotguns : 3
+Undefined : 13
+
+Year-Month : 2015-05-24  State : North Carolina 
+Number of Matches : 232
+Handguns : 69
+Rifles : 40
+Shotguns : 9
+Undefined : 114
+
+Year-Month : 2015-05-24  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-24  State : Ohio 
+Number of Matches : 326
+Handguns : 106
+Rifles : 45
+Shotguns : 17
+Undefined : 158
+
+Year-Month : 2015-05-24  State : Oklahoma 
+Number of Matches : 195
+Handguns : 55
+Rifles : 42
+Shotguns : 6
+Undefined : 92
+
+Year-Month : 2015-05-24  State : Oregon 
+Number of Matches : 134
+Handguns : 27
+Rifles : 25
+Shotguns : 11
+Undefined : 71
+
+Year-Month : 2015-05-24  State : Pennsylvania
+Number of Matches : 82
+Handguns : 20
+Rifles : 19
+Shotguns : 3
+Undefined : 40
+
+Year-Month : 2015-05-24  State : Rhode Island 
+Number of Matches : 3
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-24  State : South Carolina 
+Number of Matches : 130
+Handguns : 49
+Rifles : 21
+Shotguns : 8
+Undefined : 52
+
+Year-Month : 2015-05-24  State : South Dakota 
+Number of Matches : 8
+Handguns : 0
+Rifles : 7
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-24  State : Tennessee 
+Number of Matches : 147
+Handguns : 45
+Rifles : 28
+Shotguns : 10
+Undefined : 64
+
+Year-Month : 2015-05-24  State : Texas 
+Number of Matches : 177
+Handguns : 68
+Rifles : 29
+Shotguns : 6
+Undefined : 74
+
+Year-Month : 2015-05-24  State : Utah 
+Number of Matches : 2
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-24  State : Vermont 
+Number of Matches : 11
+Handguns : 1
+Rifles : 4
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-24  State : Virginia 
+Number of Matches : 109
+Handguns : 32
+Rifles : 18
+Shotguns : 5
+Undefined : 54
+
+Year-Month : 2015-05-24  State : Washington 
+Number of Matches : 123
+Handguns : 27
+Rifles : 28
+Shotguns : 4
+Undefined : 64
+
+Year-Month : 2015-05-24  State : West Virginia 
+Number of Matches : 5
+Handguns : 0
+Rifles : 3
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-24  State : Wisconsin 
+Number of Matches : 164
+Handguns : 32
+Rifles : 34
+Shotguns : 14
+Undefined : 84
+
+Year-Month : 2015-05-24  State : Wyoming
+Number of Matches : 10
+Handguns : 2
+Rifles : 3
+Shotguns : 1
+Undefined : 4
+
+Year-Month : 2015-05-25  State : Alabama 
+Number of Matches : 69
+Handguns : 29
+Rifles : 11
+Shotguns : 4
+Undefined : 25
+
+Year-Month : 2015-05-25  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-25  State : Arizona 
+Number of Matches : 48
+Handguns : 28
+Rifles : 6
+Shotguns : 2
+Undefined : 12
+
+Year-Month : 2015-05-25  State : Arkansas 
+Number of Matches : 20
+Handguns : 5
+Rifles : 5
+Shotguns : 4
+Undefined : 6
+
+Year-Month : 2015-05-25  State : California 
+Number of Matches : 38
+Handguns : 7
+Rifles : 10
+Shotguns : 1
+Undefined : 20
+
+Year-Month : 2015-05-25  State : Colorado 
+Number of Matches : 88
+Handguns : 23
+Rifles : 6
+Shotguns : 6
+Undefined : 53
+
+Year-Month : 2015-05-25  State : Connecticut 
+Number of Matches : 2
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-25  State : Delaware 
+Number of Matches : 1
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-25  State : Florida 
+Number of Matches : 100
+Handguns : 23
+Rifles : 14
+Shotguns : 5
+Undefined : 58
+
+Year-Month : 2015-05-25  State : Georgia 
+Number of Matches : 50
+Handguns : 14
+Rifles : 6
+Shotguns : 6
+Undefined : 24
+
+Year-Month : 2015-05-25  State : Hawaii 
+Number of Matches : 4
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-25  State : Idaho 
+Number of Matches : 4
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-25  State : Illinois 
+Number of Matches : 54
+Handguns : 8
+Rifles : 14
+Shotguns : 7
+Undefined : 25
+
+Year-Month : 2015-05-25  State : Indiana 
+Number of Matches : 97
+Handguns : 22
+Rifles : 22
+Shotguns : 1
+Undefined : 52
+
+Year-Month : 2015-05-25  State : Iowa 
+Number of Matches : 18
+Handguns : 9
+Rifles : 2
+Shotguns : 0
+Undefined : 7
+
+Year-Month : 2015-05-25  State : Kansas 
+Number of Matches : 44
+Handguns : 9
+Rifles : 12
+Shotguns : 3
+Undefined : 20
+
+Year-Month : 2015-05-25  State : Kentucky 
+Number of Matches : 44
+Handguns : 16
+Rifles : 4
+Shotguns : 5
+Undefined : 19
+
+Year-Month : 2015-05-25  State : Louisiana 
+Number of Matches : 3
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-25  State : Maine 
+Number of Matches : 2
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-25  State : Maryland 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-25  State : Massachusetts 
+Number of Matches : 13
+Handguns : 3
+Rifles : 3
+Shotguns : 1
+Undefined : 6
+
+Year-Month : 2015-05-25  State : Michigan 
+Number of Matches : 58
+Handguns : 21
+Rifles : 14
+Shotguns : 1
+Undefined : 22
+
+Year-Month : 2015-05-25  State : Minnesota 
+Number of Matches : 55
+Handguns : 10
+Rifles : 9
+Shotguns : 5
+Undefined : 31
+
+Year-Month : 2015-05-25  State : Mississippi 
+Number of Matches : 8
+Handguns : 1
+Rifles : 3
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-25  State : Missouri 
+Number of Matches : 94
+Handguns : 34
+Rifles : 7
+Shotguns : 6
+Undefined : 47
+
+Year-Month : 2015-05-25  State : Montana
+Number of Matches : 14
+Handguns : 5
+Rifles : 3
+Shotguns : 2
+Undefined : 4
+
+Year-Month : 2015-05-25  State : Nebraska 
+Number of Matches : 8
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-25  State : Nevada 
+Number of Matches : 36
+Handguns : 21
+Rifles : 6
+Shotguns : 0
+Undefined : 9
+
+Year-Month : 2015-05-25  State : New Hampshire 
+Number of Matches : 25
+Handguns : 8
+Rifles : 3
+Shotguns : 3
+Undefined : 11
+
+Year-Month : 2015-05-25  State : New Jersey 
+Number of Matches : 5
+Handguns : 0
+Rifles : 1
+Shotguns : 2
+Undefined : 2
+
+Year-Month : 2015-05-25  State : New Mexico 
+Number of Matches : 23
+Handguns : 7
+Rifles : 3
+Shotguns : 1
+Undefined : 12
+
+Year-Month : 2015-05-25  State : New York 
+Number of Matches : 20
+Handguns : 1
+Rifles : 4
+Shotguns : 2
+Undefined : 13
+
+Year-Month : 2015-05-25  State : North Carolina 
+Number of Matches : 86
+Handguns : 25
+Rifles : 19
+Shotguns : 4
+Undefined : 38
+
+Year-Month : 2015-05-25  State : North Dakota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-25  State : Ohio 
+Number of Matches : 141
+Handguns : 35
+Rifles : 29
+Shotguns : 8
+Undefined : 69
+
+Year-Month : 2015-05-25  State : Oklahoma 
+Number of Matches : 152
+Handguns : 47
+Rifles : 45
+Shotguns : 5
+Undefined : 55
+
+Year-Month : 2015-05-25  State : Oregon 
+Number of Matches : 95
+Handguns : 24
+Rifles : 21
+Shotguns : 6
+Undefined : 44
+
+Year-Month : 2015-05-25  State : Pennsylvania
+Number of Matches : 58
+Handguns : 18
+Rifles : 18
+Shotguns : 2
+Undefined : 20
+
+Year-Month : 2015-05-25  State : Rhode Island 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-25  State : South Carolina 
+Number of Matches : 54
+Handguns : 20
+Rifles : 11
+Shotguns : 1
+Undefined : 22
+
+Year-Month : 2015-05-25  State : South Dakota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-25  State : Tennessee 
+Number of Matches : 94
+Handguns : 30
+Rifles : 15
+Shotguns : 5
+Undefined : 44
+
+Year-Month : 2015-05-25  State : Texas 
+Number of Matches : 90
+Handguns : 36
+Rifles : 14
+Shotguns : 1
+Undefined : 39
+
+Year-Month : 2015-05-25  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-05-25  State : Vermont 
+Number of Matches : 4
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-25  State : Virginia 
+Number of Matches : 42
+Handguns : 11
+Rifles : 9
+Shotguns : 5
+Undefined : 17
+
+Year-Month : 2015-05-25  State : Washington 
+Number of Matches : 67
+Handguns : 10
+Rifles : 11
+Shotguns : 2
+Undefined : 44
+
+Year-Month : 2015-05-25  State : West Virginia 
+Number of Matches : 5
+Handguns : 1
+Rifles : 3
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-25  State : Wisconsin 
+Number of Matches : 98
+Handguns : 8
+Rifles : 19
+Shotguns : 5
+Undefined : 66
+
+Year-Month : 2015-05-25  State : Wyoming
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-26  State : Alabama 
+Number of Matches : 131
+Handguns : 42
+Rifles : 26
+Shotguns : 3
+Undefined : 60
+
+Year-Month : 2015-05-26  State : Alaska 
+Number of Matches : 2
+Handguns : 0
+Rifles : 1
+Shotguns : 1
+Undefined : 0
+
+Year-Month : 2015-05-26  State : Arizona 
+Number of Matches : 45
+Handguns : 14
+Rifles : 8
+Shotguns : 3
+Undefined : 20
+
+Year-Month : 2015-05-26  State : Arkansas 
+Number of Matches : 63
+Handguns : 12
+Rifles : 16
+Shotguns : 2
+Undefined : 33
+
+Year-Month : 2015-05-26  State : California 
+Number of Matches : 104
+Handguns : 19
+Rifles : 13
+Shotguns : 9
+Undefined : 63
+
+Year-Month : 2015-05-26  State : Colorado 
+Number of Matches : 291
+Handguns : 71
+Rifles : 46
+Shotguns : 29
+Undefined : 145
+
+Year-Month : 2015-05-26  State : Connecticut 
+Number of Matches : 9
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 8
+
+Year-Month : 2015-05-26  State : Delaware 
+Number of Matches : 4
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-26  State : Florida 
+Number of Matches : 203
+Handguns : 57
+Rifles : 30
+Shotguns : 16
+Undefined : 100
+
+Year-Month : 2015-05-26  State : Georgia 
+Number of Matches : 126
+Handguns : 36
+Rifles : 26
+Shotguns : 7
+Undefined : 57
+
+Year-Month : 2015-05-26  State : Hawaii 
+Number of Matches : 6
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-26  State : Idaho 
+Number of Matches : 32
+Handguns : 8
+Rifles : 9
+Shotguns : 2
+Undefined : 13
+
+Year-Month : 2015-05-26  State : Illinois 
+Number of Matches : 96
+Handguns : 31
+Rifles : 20
+Shotguns : 6
+Undefined : 39
+
+Year-Month : 2015-05-26  State : Indiana 
+Number of Matches : 213
+Handguns : 72
+Rifles : 37
+Shotguns : 12
+Undefined : 92
+
+Year-Month : 2015-05-26  State : Iowa 
+Number of Matches : 25
+Handguns : 8
+Rifles : 5
+Shotguns : 2
+Undefined : 10
+
+Year-Month : 2015-05-26  State : Kansas 
+Number of Matches : 103
+Handguns : 28
+Rifles : 38
+Shotguns : 3
+Undefined : 34
+
+Year-Month : 2015-05-26  State : Kentucky 
+Number of Matches : 115
+Handguns : 34
+Rifles : 15
+Shotguns : 9
+Undefined : 57
+
+Year-Month : 2015-05-26  State : Louisiana 
+Number of Matches : 12
+Handguns : 4
+Rifles : 2
+Shotguns : 2
+Undefined : 4
+
+Year-Month : 2015-05-26  State : Maine 
+Number of Matches : 3
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-26  State : Maryland 
+Number of Matches : 16
+Handguns : 1
+Rifles : 3
+Shotguns : 0
+Undefined : 12
+
+Year-Month : 2015-05-26  State : Massachusetts 
+Number of Matches : 23
+Handguns : 10
+Rifles : 3
+Shotguns : 0
+Undefined : 10
+
+Year-Month : 2015-05-26  State : Michigan 
+Number of Matches : 160
+Handguns : 34
+Rifles : 33
+Shotguns : 12
+Undefined : 81
+
+Year-Month : 2015-05-26  State : Minnesota 
+Number of Matches : 138
+Handguns : 49
+Rifles : 28
+Shotguns : 13
+Undefined : 48
+
+Year-Month : 2015-05-26  State : Mississippi 
+Number of Matches : 11
+Handguns : 4
+Rifles : 2
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-26  State : Missouri 
+Number of Matches : 178
+Handguns : 44
+Rifles : 28
+Shotguns : 20
+Undefined : 86
+
+Year-Month : 2015-05-26  State : Montana
+Number of Matches : 24
+Handguns : 2
+Rifles : 9
+Shotguns : 1
+Undefined : 12
+
+Year-Month : 2015-05-26  State : Nebraska 
+Number of Matches : 21
+Handguns : 5
+Rifles : 3
+Shotguns : 0
+Undefined : 13
+
+Year-Month : 2015-05-26  State : Nevada 
+Number of Matches : 66
+Handguns : 10
+Rifles : 8
+Shotguns : 4
+Undefined : 44
+
+Year-Month : 2015-05-26  State : New Hampshire 
+Number of Matches : 39
+Handguns : 9
+Rifles : 9
+Shotguns : 1
+Undefined : 20
+
+Year-Month : 2015-05-26  State : New Jersey 
+Number of Matches : 17
+Handguns : 3
+Rifles : 6
+Shotguns : 1
+Undefined : 7
+
+Year-Month : 2015-05-26  State : New Mexico 
+Number of Matches : 25
+Handguns : 8
+Rifles : 5
+Shotguns : 3
+Undefined : 9
+
+Year-Month : 2015-05-26  State : New York 
+Number of Matches : 30
+Handguns : 0
+Rifles : 7
+Shotguns : 0
+Undefined : 23
+
+Year-Month : 2015-05-26  State : North Carolina 
+Number of Matches : 252
+Handguns : 71
+Rifles : 50
+Shotguns : 9
+Undefined : 122
+
+Year-Month : 2015-05-26  State : North Dakota 
+Number of Matches : 3
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-26  State : Ohio 
+Number of Matches : 309
+Handguns : 86
+Rifles : 53
+Shotguns : 19
+Undefined : 151
+
+Year-Month : 2015-05-26  State : Oklahoma 
+Number of Matches : 332
+Handguns : 84
+Rifles : 74
+Shotguns : 18
+Undefined : 156
+
+Year-Month : 2015-05-26  State : Oregon 
+Number of Matches : 150
+Handguns : 23
+Rifles : 34
+Shotguns : 7
+Undefined : 86
+
+Year-Month : 2015-05-26  State : Pennsylvania
+Number of Matches : 92
+Handguns : 19
+Rifles : 26
+Shotguns : 9
+Undefined : 38
+
+Year-Month : 2015-05-26  State : Rhode Island 
+Number of Matches : 9
+Handguns : 7
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-26  State : South Carolina 
+Number of Matches : 151
+Handguns : 37
+Rifles : 31
+Shotguns : 14
+Undefined : 69
+
+Year-Month : 2015-05-26  State : South Dakota 
+Number of Matches : 5
+Handguns : 1
+Rifles : 1
+Shotguns : 1
+Undefined : 2
+
+Year-Month : 2015-05-26  State : Tennessee 
+Number of Matches : 185
+Handguns : 61
+Rifles : 31
+Shotguns : 11
+Undefined : 82
+
+Year-Month : 2015-05-26  State : Texas 
+Number of Matches : 150
+Handguns : 58
+Rifles : 28
+Shotguns : 6
+Undefined : 58
+
+Year-Month : 2015-05-26  State : Utah 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-26  State : Vermont 
+Number of Matches : 16
+Handguns : 7
+Rifles : 4
+Shotguns : 1
+Undefined : 4
+
+Year-Month : 2015-05-26  State : Virginia 
+Number of Matches : 139
+Handguns : 37
+Rifles : 24
+Shotguns : 3
+Undefined : 75
+
+Year-Month : 2015-05-26  State : Washington 
+Number of Matches : 155
+Handguns : 26
+Rifles : 47
+Shotguns : 6
+Undefined : 76
+
+Year-Month : 2015-05-26  State : West Virginia 
+Number of Matches : 7
+Handguns : 0
+Rifles : 4
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-26  State : Wisconsin 
+Number of Matches : 123
+Handguns : 21
+Rifles : 18
+Shotguns : 14
+Undefined : 70
+
+Year-Month : 2015-05-26  State : Wyoming
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-27  State : Alabama 
+Number of Matches : 67
+Handguns : 23
+Rifles : 17
+Shotguns : 3
+Undefined : 24
+
+Year-Month : 2015-05-27  State : Alaska 
+Number of Matches : 4
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-27  State : Arizona 
+Number of Matches : 60
+Handguns : 17
+Rifles : 15
+Shotguns : 5
+Undefined : 23
+
+Year-Month : 2015-05-27  State : Arkansas 
+Number of Matches : 52
+Handguns : 12
+Rifles : 17
+Shotguns : 2
+Undefined : 21
+
+Year-Month : 2015-05-27  State : California 
+Number of Matches : 71
+Handguns : 17
+Rifles : 18
+Shotguns : 2
+Undefined : 34
+
+Year-Month : 2015-05-27  State : Colorado 
+Number of Matches : 162
+Handguns : 33
+Rifles : 26
+Shotguns : 26
+Undefined : 77
+
+Year-Month : 2015-05-27  State : Connecticut 
+Number of Matches : 5
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05-27  State : Delaware 
+Number of Matches : 8
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-27  State : Florida 
+Number of Matches : 173
+Handguns : 41
+Rifles : 31
+Shotguns : 4
+Undefined : 97
+
+Year-Month : 2015-05-27  State : Georgia 
+Number of Matches : 80
+Handguns : 41
+Rifles : 11
+Shotguns : 2
+Undefined : 26
+
+Year-Month : 2015-05-27  State : Hawaii 
+Number of Matches : 6
+Handguns : 2
+Rifles : 2
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-27  State : Idaho 
+Number of Matches : 10
+Handguns : 2
+Rifles : 5
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-27  State : Illinois 
+Number of Matches : 65
+Handguns : 15
+Rifles : 12
+Shotguns : 2
+Undefined : 36
+
+Year-Month : 2015-05-27  State : Indiana 
+Number of Matches : 146
+Handguns : 43
+Rifles : 31
+Shotguns : 11
+Undefined : 61
+
+Year-Month : 2015-05-27  State : Iowa 
+Number of Matches : 18
+Handguns : 4
+Rifles : 2
+Shotguns : 4
+Undefined : 8
+
+Year-Month : 2015-05-27  State : Kansas 
+Number of Matches : 62
+Handguns : 16
+Rifles : 12
+Shotguns : 2
+Undefined : 32
+
+Year-Month : 2015-05-27  State : Kentucky 
+Number of Matches : 75
+Handguns : 24
+Rifles : 11
+Shotguns : 2
+Undefined : 38
+
+Year-Month : 2015-05-27  State : Louisiana 
+Number of Matches : 14
+Handguns : 3
+Rifles : 4
+Shotguns : 3
+Undefined : 4
+
+Year-Month : 2015-05-27  State : Maine 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-27  State : Maryland 
+Number of Matches : 17
+Handguns : 2
+Rifles : 4
+Shotguns : 5
+Undefined : 6
+
+Year-Month : 2015-05-27  State : Massachusetts 
+Number of Matches : 42
+Handguns : 16
+Rifles : 11
+Shotguns : 2
+Undefined : 13
+
+Year-Month : 2015-05-27  State : Michigan 
+Number of Matches : 109
+Handguns : 32
+Rifles : 24
+Shotguns : 6
+Undefined : 47
+
+Year-Month : 2015-05-27  State : Minnesota 
+Number of Matches : 76
+Handguns : 28
+Rifles : 12
+Shotguns : 8
+Undefined : 28
+
+Year-Month : 2015-05-27  State : Mississippi 
+Number of Matches : 11
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 8
+
+Year-Month : 2015-05-27  State : Missouri 
+Number of Matches : 114
+Handguns : 27
+Rifles : 17
+Shotguns : 4
+Undefined : 66
+
+Year-Month : 2015-05-27  State : Montana
+Number of Matches : 18
+Handguns : 2
+Rifles : 5
+Shotguns : 1
+Undefined : 10
+
+Year-Month : 2015-05-27  State : Nebraska 
+Number of Matches : 14
+Handguns : 5
+Rifles : 1
+Shotguns : 0
+Undefined : 8
+
+Year-Month : 2015-05-27  State : Nevada 
+Number of Matches : 74
+Handguns : 12
+Rifles : 11
+Shotguns : 3
+Undefined : 48
+
+Year-Month : 2015-05-27  State : New Hampshire 
+Number of Matches : 23
+Handguns : 8
+Rifles : 7
+Shotguns : 0
+Undefined : 8
+
+Year-Month : 2015-05-27  State : New Jersey 
+Number of Matches : 7
+Handguns : 2
+Rifles : 3
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-27  State : New Mexico 
+Number of Matches : 17
+Handguns : 7
+Rifles : 5
+Shotguns : 1
+Undefined : 4
+
+Year-Month : 2015-05-27  State : New York 
+Number of Matches : 50
+Handguns : 5
+Rifles : 7
+Shotguns : 3
+Undefined : 35
+
+Year-Month : 2015-05-27  State : North Carolina 
+Number of Matches : 161
+Handguns : 46
+Rifles : 33
+Shotguns : 6
+Undefined : 76
+
+Year-Month : 2015-05-27  State : North Dakota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-27  State : Ohio 
+Number of Matches : 257
+Handguns : 81
+Rifles : 40
+Shotguns : 20
+Undefined : 116
+
+Year-Month : 2015-05-27  State : Oklahoma 
+Number of Matches : 170
+Handguns : 54
+Rifles : 20
+Shotguns : 6
+Undefined : 90
+
+Year-Month : 2015-05-27  State : Oregon 
+Number of Matches : 57
+Handguns : 8
+Rifles : 19
+Shotguns : 0
+Undefined : 30
+
+Year-Month : 2015-05-27  State : Pennsylvania
+Number of Matches : 88
+Handguns : 24
+Rifles : 13
+Shotguns : 5
+Undefined : 46
+
+Year-Month : 2015-05-27  State : Rhode Island 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-27  State : South Carolina 
+Number of Matches : 105
+Handguns : 42
+Rifles : 18
+Shotguns : 5
+Undefined : 40
+
+Year-Month : 2015-05-27  State : South Dakota 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-27  State : Tennessee 
+Number of Matches : 145
+Handguns : 39
+Rifles : 22
+Shotguns : 4
+Undefined : 80
+
+Year-Month : 2015-05-27  State : Texas 
+Number of Matches : 90
+Handguns : 23
+Rifles : 23
+Shotguns : 6
+Undefined : 38
+
+Year-Month : 2015-05-27  State : Utah 
+Number of Matches : 4
+Handguns : 0
+Rifles : 3
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-27  State : Vermont 
+Number of Matches : 17
+Handguns : 3
+Rifles : 2
+Shotguns : 0
+Undefined : 12
+
+Year-Month : 2015-05-27  State : Virginia 
+Number of Matches : 100
+Handguns : 21
+Rifles : 20
+Shotguns : 6
+Undefined : 53
+
+Year-Month : 2015-05-27  State : Washington 
+Number of Matches : 105
+Handguns : 20
+Rifles : 21
+Shotguns : 6
+Undefined : 58
+
+Year-Month : 2015-05-27  State : West Virginia 
+Number of Matches : 8
+Handguns : 3
+Rifles : 1
+Shotguns : 1
+Undefined : 3
+
+Year-Month : 2015-05-27  State : Wisconsin 
+Number of Matches : 75
+Handguns : 16
+Rifles : 17
+Shotguns : 6
+Undefined : 36
+
+Year-Month : 2015-05-27  State : Wyoming
+Number of Matches : 5
+Handguns : 0
+Rifles : 0
+Shotguns : 1
+Undefined : 4
+
+Year-Month : 2015-05-28  State : Alabama 
+Number of Matches : 42
+Handguns : 12
+Rifles : 6
+Shotguns : 5
+Undefined : 19
+
+Year-Month : 2015-05-28  State : Alaska 
+Number of Matches : 4
+Handguns : 3
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-28  State : Arizona 
+Number of Matches : 17
+Handguns : 2
+Rifles : 4
+Shotguns : 0
+Undefined : 11
+
+Year-Month : 2015-05-28  State : Arkansas 
+Number of Matches : 25
+Handguns : 4
+Rifles : 6
+Shotguns : 2
+Undefined : 13
+
+Year-Month : 2015-05-28  State : California 
+Number of Matches : 54
+Handguns : 17
+Rifles : 4
+Shotguns : 1
+Undefined : 32
+
+Year-Month : 2015-05-28  State : Colorado 
+Number of Matches : 114
+Handguns : 16
+Rifles : 36
+Shotguns : 7
+Undefined : 55
+
+Year-Month : 2015-05-28  State : Connecticut 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-28  State : Delaware 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-28  State : Florida 
+Number of Matches : 79
+Handguns : 15
+Rifles : 10
+Shotguns : 1
+Undefined : 53
+
+Year-Month : 2015-05-28  State : Georgia 
+Number of Matches : 35
+Handguns : 6
+Rifles : 10
+Shotguns : 2
+Undefined : 17
+
+Year-Month : 2015-05-28  State : Hawaii 
+Number of Matches : 4
+Handguns : 3
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-28  State : Idaho 
+Number of Matches : 5
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-28  State : Illinois 
+Number of Matches : 37
+Handguns : 14
+Rifles : 8
+Shotguns : 4
+Undefined : 11
+
+Year-Month : 2015-05-28  State : Indiana 
+Number of Matches : 65
+Handguns : 17
+Rifles : 12
+Shotguns : 3
+Undefined : 33
+
+Year-Month : 2015-05-28  State : Iowa 
+Number of Matches : 12
+Handguns : 3
+Rifles : 3
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-28  State : Kansas 
+Number of Matches : 51
+Handguns : 10
+Rifles : 7
+Shotguns : 5
+Undefined : 29
+
+Year-Month : 2015-05-28  State : Kentucky 
+Number of Matches : 32
+Handguns : 10
+Rifles : 3
+Shotguns : 1
+Undefined : 18
+
+Year-Month : 2015-05-28  State : Louisiana 
+Number of Matches : 6
+Handguns : 3
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-28  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-28  State : Maryland 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-28  State : Massachusetts 
+Number of Matches : 12
+Handguns : 3
+Rifles : 2
+Shotguns : 0
+Undefined : 7
+
+Year-Month : 2015-05-28  State : Michigan 
+Number of Matches : 54
+Handguns : 10
+Rifles : 12
+Shotguns : 6
+Undefined : 26
+
+Year-Month : 2015-05-28  State : Minnesota 
+Number of Matches : 59
+Handguns : 11
+Rifles : 11
+Shotguns : 5
+Undefined : 32
+
+Year-Month : 2015-05-28  State : Mississippi 
+Number of Matches : 3
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-28  State : Missouri 
+Number of Matches : 67
+Handguns : 19
+Rifles : 7
+Shotguns : 3
+Undefined : 38
+
+Year-Month : 2015-05-28  State : Montana
+Number of Matches : 14
+Handguns : 2
+Rifles : 6
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-28  State : Nebraska 
+Number of Matches : 18
+Handguns : 4
+Rifles : 3
+Shotguns : 1
+Undefined : 10
+
+Year-Month : 2015-05-28  State : Nevada 
+Number of Matches : 19
+Handguns : 6
+Rifles : 0
+Shotguns : 1
+Undefined : 12
+
+Year-Month : 2015-05-28  State : New Hampshire 
+Number of Matches : 18
+Handguns : 2
+Rifles : 5
+Shotguns : 2
+Undefined : 9
+
+Year-Month : 2015-05-28  State : New Jersey 
+Number of Matches : 6
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-28  State : New Mexico 
+Number of Matches : 12
+Handguns : 4
+Rifles : 1
+Shotguns : 0
+Undefined : 7
+
+Year-Month : 2015-05-28  State : New York 
+Number of Matches : 23
+Handguns : 5
+Rifles : 8
+Shotguns : 1
+Undefined : 9
+
+Year-Month : 2015-05-28  State : North Carolina 
+Number of Matches : 74
+Handguns : 20
+Rifles : 11
+Shotguns : 7
+Undefined : 36
+
+Year-Month : 2015-05-28  State : North Dakota 
+Number of Matches : 2
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-28  State : Ohio 
+Number of Matches : 129
+Handguns : 31
+Rifles : 20
+Shotguns : 6
+Undefined : 72
+
+Year-Month : 2015-05-28  State : Oklahoma 
+Number of Matches : 104
+Handguns : 34
+Rifles : 14
+Shotguns : 3
+Undefined : 53
+
+Year-Month : 2015-05-28  State : Oregon 
+Number of Matches : 38
+Handguns : 8
+Rifles : 11
+Shotguns : 0
+Undefined : 19
+
+Year-Month : 2015-05-28  State : Pennsylvania
+Number of Matches : 70
+Handguns : 13
+Rifles : 12
+Shotguns : 3
+Undefined : 42
+
+Year-Month : 2015-05-28  State : Rhode Island 
+Number of Matches : 5
+Handguns : 1
+Rifles : 3
+Shotguns : 1
+Undefined : 0
+
+Year-Month : 2015-05-28  State : South Carolina 
+Number of Matches : 44
+Handguns : 21
+Rifles : 8
+Shotguns : 2
+Undefined : 13
+
+Year-Month : 2015-05-28  State : South Dakota 
+Number of Matches : 2
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-28  State : Tennessee 
+Number of Matches : 74
+Handguns : 24
+Rifles : 9
+Shotguns : 7
+Undefined : 34
+
+Year-Month : 2015-05-28  State : Texas 
+Number of Matches : 50
+Handguns : 12
+Rifles : 10
+Shotguns : 2
+Undefined : 26
+
+Year-Month : 2015-05-28  State : Utah 
+Number of Matches : 6
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-28  State : Vermont 
+Number of Matches : 8
+Handguns : 6
+Rifles : 1
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-28  State : Virginia 
+Number of Matches : 41
+Handguns : 13
+Rifles : 3
+Shotguns : 1
+Undefined : 24
+
+Year-Month : 2015-05-28  State : Washington 
+Number of Matches : 59
+Handguns : 9
+Rifles : 8
+Shotguns : 0
+Undefined : 42
+
+Year-Month : 2015-05-28  State : West Virginia 
+Number of Matches : 2
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-28  State : Wisconsin 
+Number of Matches : 75
+Handguns : 20
+Rifles : 11
+Shotguns : 6
+Undefined : 38
+
+Year-Month : 2015-05-28  State : Wyoming
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-29  State : Alabama 
+Number of Matches : 78
+Handguns : 20
+Rifles : 11
+Shotguns : 4
+Undefined : 43
+
+Year-Month : 2015-05-29  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-29  State : Arizona 
+Number of Matches : 44
+Handguns : 11
+Rifles : 9
+Shotguns : 3
+Undefined : 21
+
+Year-Month : 2015-05-29  State : Arkansas 
+Number of Matches : 21
+Handguns : 7
+Rifles : 6
+Shotguns : 0
+Undefined : 8
+
+Year-Month : 2015-05-29  State : California 
+Number of Matches : 67
+Handguns : 16
+Rifles : 14
+Shotguns : 3
+Undefined : 34
+
+Year-Month : 2015-05-29  State : Colorado 
+Number of Matches : 212
+Handguns : 44
+Rifles : 57
+Shotguns : 6
+Undefined : 105
+
+Year-Month : 2015-05-29  State : Connecticut 
+Number of Matches : 5
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-29  State : Delaware 
+Number of Matches : 4
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-29  State : Florida 
+Number of Matches : 133
+Handguns : 40
+Rifles : 25
+Shotguns : 1
+Undefined : 67
+
+Year-Month : 2015-05-29  State : Georgia 
+Number of Matches : 53
+Handguns : 16
+Rifles : 9
+Shotguns : 4
+Undefined : 24
+
+Year-Month : 2015-05-29  State : Hawaii 
+Number of Matches : 4
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-29  State : Idaho 
+Number of Matches : 5
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-29  State : Illinois 
+Number of Matches : 59
+Handguns : 18
+Rifles : 9
+Shotguns : 1
+Undefined : 31
+
+Year-Month : 2015-05-29  State : Indiana 
+Number of Matches : 96
+Handguns : 33
+Rifles : 14
+Shotguns : 5
+Undefined : 44
+
+Year-Month : 2015-05-29  State : Iowa 
+Number of Matches : 12
+Handguns : 3
+Rifles : 2
+Shotguns : 1
+Undefined : 6
+
+Year-Month : 2015-05-29  State : Kansas 
+Number of Matches : 61
+Handguns : 20
+Rifles : 8
+Shotguns : 1
+Undefined : 32
+
+Year-Month : 2015-05-29  State : Kentucky 
+Number of Matches : 47
+Handguns : 14
+Rifles : 11
+Shotguns : 3
+Undefined : 19
+
+Year-Month : 2015-05-29  State : Louisiana 
+Number of Matches : 4
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-29  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-05-29  State : Maryland 
+Number of Matches : 10
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 7
+
+Year-Month : 2015-05-29  State : Massachusetts 
+Number of Matches : 23
+Handguns : 7
+Rifles : 0
+Shotguns : 0
+Undefined : 16
+
+Year-Month : 2015-05-29  State : Michigan 
+Number of Matches : 80
+Handguns : 19
+Rifles : 23
+Shotguns : 7
+Undefined : 31
+
+Year-Month : 2015-05-29  State : Minnesota 
+Number of Matches : 55
+Handguns : 16
+Rifles : 5
+Shotguns : 3
+Undefined : 31
+
+Year-Month : 2015-05-29  State : Mississippi 
+Number of Matches : 17
+Handguns : 4
+Rifles : 5
+Shotguns : 2
+Undefined : 6
+
+Year-Month : 2015-05-29  State : Missouri 
+Number of Matches : 101
+Handguns : 23
+Rifles : 11
+Shotguns : 9
+Undefined : 58
+
+Year-Month : 2015-05-29  State : Montana
+Number of Matches : 19
+Handguns : 4
+Rifles : 9
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-29  State : Nebraska 
+Number of Matches : 18
+Handguns : 6
+Rifles : 6
+Shotguns : 2
+Undefined : 4
+
+Year-Month : 2015-05-29  State : Nevada 
+Number of Matches : 36
+Handguns : 6
+Rifles : 8
+Shotguns : 4
+Undefined : 18
+
+Year-Month : 2015-05-29  State : New Hampshire 
+Number of Matches : 19
+Handguns : 4
+Rifles : 5
+Shotguns : 1
+Undefined : 9
+
+Year-Month : 2015-05-29  State : New Jersey 
+Number of Matches : 15
+Handguns : 3
+Rifles : 3
+Shotguns : 1
+Undefined : 8
+
+Year-Month : 2015-05-29  State : New Mexico 
+Number of Matches : 27
+Handguns : 5
+Rifles : 9
+Shotguns : 3
+Undefined : 10
+
+Year-Month : 2015-05-29  State : New York 
+Number of Matches : 25
+Handguns : 7
+Rifles : 3
+Shotguns : 1
+Undefined : 14
+
+Year-Month : 2015-05-29  State : North Carolina 
+Number of Matches : 132
+Handguns : 48
+Rifles : 28
+Shotguns : 4
+Undefined : 52
+
+Year-Month : 2015-05-29  State : North Dakota 
+Number of Matches : 3
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-29  State : Ohio 
+Number of Matches : 199
+Handguns : 61
+Rifles : 23
+Shotguns : 12
+Undefined : 103
+
+Year-Month : 2015-05-29  State : Oklahoma 
+Number of Matches : 147
+Handguns : 53
+Rifles : 17
+Shotguns : 6
+Undefined : 71
+
+Year-Month : 2015-05-29  State : Oregon 
+Number of Matches : 87
+Handguns : 22
+Rifles : 20
+Shotguns : 3
+Undefined : 42
+
+Year-Month : 2015-05-29  State : Pennsylvania
+Number of Matches : 75
+Handguns : 18
+Rifles : 9
+Shotguns : 7
+Undefined : 41
+
+Year-Month : 2015-05-29  State : Rhode Island 
+Number of Matches : 1
+Handguns : 0
+Rifles : 0
+Shotguns : 1
+Undefined : 0
+
+Year-Month : 2015-05-29  State : South Carolina 
+Number of Matches : 97
+Handguns : 32
+Rifles : 16
+Shotguns : 0
+Undefined : 49
+
+Year-Month : 2015-05-29  State : South Dakota 
+Number of Matches : 4
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05-29  State : Tennessee 
+Number of Matches : 98
+Handguns : 33
+Rifles : 23
+Shotguns : 8
+Undefined : 34
+
+Year-Month : 2015-05-29  State : Texas 
+Number of Matches : 83
+Handguns : 23
+Rifles : 20
+Shotguns : 5
+Undefined : 35
+
+Year-Month : 2015-05-29  State : Utah 
+Number of Matches : 30
+Handguns : 9
+Rifles : 10
+Shotguns : 1
+Undefined : 10
+
+Year-Month : 2015-05-29  State : Vermont 
+Number of Matches : 5
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05-29  State : Virginia 
+Number of Matches : 78
+Handguns : 22
+Rifles : 13
+Shotguns : 9
+Undefined : 34
+
+Year-Month : 2015-05-29  State : Washington 
+Number of Matches : 82
+Handguns : 20
+Rifles : 17
+Shotguns : 2
+Undefined : 43
+
+Year-Month : 2015-05-29  State : West Virginia 
+Number of Matches : 7
+Handguns : 1
+Rifles : 3
+Shotguns : 1
+Undefined : 2
+
+Year-Month : 2015-05-29  State : Wisconsin 
+Number of Matches : 65
+Handguns : 17
+Rifles : 14
+Shotguns : 4
+Undefined : 30
+
+Year-Month : 2015-05-29  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05-30  State : Alabama 
+Number of Matches : 59
+Handguns : 24
+Rifles : 8
+Shotguns : 0
+Undefined : 27
+
+Year-Month : 2015-05-30  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-05-30  State : Arizona 
+Number of Matches : 53
+Handguns : 13
+Rifles : 7
+Shotguns : 2
+Undefined : 31
+
+Year-Month : 2015-05-30  State : Arkansas 
+Number of Matches : 36
+Handguns : 13
+Rifles : 9
+Shotguns : 3
+Undefined : 11
+
+Year-Month : 2015-05-30  State : California 
+Number of Matches : 74
+Handguns : 24
+Rifles : 9
+Shotguns : 2
+Undefined : 39
+
+Year-Month : 2015-05-30  State : Colorado 
+Number of Matches : 168
+Handguns : 84
+Rifles : 16
+Shotguns : 8
+Undefined : 60
+
+Year-Month : 2015-05-30  State : Connecticut 
+Number of Matches : 8
+Handguns : 1
+Rifles : 2
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-30  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-05-30  State : Florida 
+Number of Matches : 164
+Handguns : 44
+Rifles : 20
+Shotguns : 6
+Undefined : 94
+
+Year-Month : 2015-05-30  State : Georgia 
+Number of Matches : 64
+Handguns : 17
+Rifles : 9
+Shotguns : 4
+Undefined : 34
+
+Year-Month : 2015-05-30  State : Hawaii 
+Number of Matches : 5
+Handguns : 4
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05-30  State : Idaho 
+Number of Matches : 14
+Handguns : 3
+Rifles : 2
+Shotguns : 0
+Undefined : 9
+
+Year-Month : 2015-05-30  State : Illinois 
+Number of Matches : 74
+Handguns : 29
+Rifles : 16
+Shotguns : 6
+Undefined : 23
+
+Year-Month : 2015-05-30  State : Indiana 
+Number of Matches : 150
+Handguns : 41
+Rifles : 34
+Shotguns : 10
+Undefined : 65
+
+Year-Month : 2015-05-30  State : Iowa 
+Number of Matches : 18
+Handguns : 4
+Rifles : 2
+Shotguns : 3
+Undefined : 9
+
+Year-Month : 2015-05-30  State : Kansas 
+Number of Matches : 67
+Handguns : 17
+Rifles : 13
+Shotguns : 1
+Undefined : 36
+
+Year-Month : 2015-05-30  State : Kentucky 
+Number of Matches : 71
+Handguns : 17
+Rifles : 12
+Shotguns : 0
+Undefined : 42
+
+Year-Month : 2015-05-30  State : Louisiana 
+Number of Matches : 17
+Handguns : 4
+Rifles : 3
+Shotguns : 1
+Undefined : 9
+
+Year-Month : 2015-05-30  State : Maine 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-30  State : Maryland 
+Number of Matches : 9
+Handguns : 0
+Rifles : 2
+Shotguns : 1
+Undefined : 6
+
+Year-Month : 2015-05-30  State : Massachusetts 
+Number of Matches : 25
+Handguns : 7
+Rifles : 2
+Shotguns : 1
+Undefined : 15
+
+Year-Month : 2015-05-30  State : Michigan 
+Number of Matches : 108
+Handguns : 30
+Rifles : 27
+Shotguns : 4
+Undefined : 47
+
+Year-Month : 2015-05-30  State : Minnesota 
+Number of Matches : 55
+Handguns : 18
+Rifles : 8
+Shotguns : 1
+Undefined : 28
+
+Year-Month : 2015-05-30  State : Mississippi 
+Number of Matches : 22
+Handguns : 4
+Rifles : 3
+Shotguns : 0
+Undefined : 15
+
+Year-Month : 2015-05-30  State : Missouri 
+Number of Matches : 112
+Handguns : 32
+Rifles : 14
+Shotguns : 5
+Undefined : 61
+
+Year-Month : 2015-05-30  State : Montana
+Number of Matches : 27
+Handguns : 6
+Rifles : 7
+Shotguns : 0
+Undefined : 14
+
+Year-Month : 2015-05-30  State : Nebraska 
+Number of Matches : 19
+Handguns : 3
+Rifles : 5
+Shotguns : 0
+Undefined : 11
+
+Year-Month : 2015-05-30  State : Nevada 
+Number of Matches : 58
+Handguns : 17
+Rifles : 12
+Shotguns : 5
+Undefined : 24
+
+Year-Month : 2015-05-30  State : New Hampshire 
+Number of Matches : 21
+Handguns : 7
+Rifles : 4
+Shotguns : 0
+Undefined : 10
+
+Year-Month : 2015-05-30  State : New Jersey 
+Number of Matches : 8
+Handguns : 3
+Rifles : 0
+Shotguns : 1
+Undefined : 4
+
+Year-Month : 2015-05-30  State : New Mexico 
+Number of Matches : 33
+Handguns : 8
+Rifles : 6
+Shotguns : 1
+Undefined : 18
+
+Year-Month : 2015-05-30  State : New York 
+Number of Matches : 25
+Handguns : 5
+Rifles : 7
+Shotguns : 3
+Undefined : 10
+
+Year-Month : 2015-05-30  State : North Carolina 
+Number of Matches : 179
+Handguns : 56
+Rifles : 29
+Shotguns : 8
+Undefined : 86
+
+Year-Month : 2015-05-30  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-05-30  State : Ohio 
+Number of Matches : 257
+Handguns : 82
+Rifles : 48
+Shotguns : 14
+Undefined : 113
+
+Year-Month : 2015-05-30  State : Oklahoma 
+Number of Matches : 173
+Handguns : 54
+Rifles : 32
+Shotguns : 7
+Undefined : 80
+
+Year-Month : 2015-05-30  State : Oregon 
+Number of Matches : 84
+Handguns : 16
+Rifles : 20
+Shotguns : 7
+Undefined : 41
+
+Year-Month : 2015-05-30  State : Pennsylvania
+Number of Matches : 70
+Handguns : 15
+Rifles : 16
+Shotguns : 3
+Undefined : 36
+
+Year-Month : 2015-05-30  State : Rhode Island 
+Number of Matches : 3
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-30  State : South Carolina 
+Number of Matches : 89
+Handguns : 29
+Rifles : 14
+Shotguns : 6
+Undefined : 40
+
+Year-Month : 2015-05-30  State : South Dakota 
+Number of Matches : 13
+Handguns : 7
+Rifles : 0
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05-30  State : Tennessee 
+Number of Matches : 163
+Handguns : 55
+Rifles : 24
+Shotguns : 5
+Undefined : 79
+
+Year-Month : 2015-05-30  State : Texas 
+Number of Matches : 129
+Handguns : 33
+Rifles : 32
+Shotguns : 6
+Undefined : 58
+
+Year-Month : 2015-05-30  State : Utah 
+Number of Matches : 2
+Handguns : 2
+Rifles : 0
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05-30  State : Vermont 
+Number of Matches : 9
+Handguns : 2
+Rifles : 2
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-30  State : Virginia 
+Number of Matches : 99
+Handguns : 25
+Rifles : 16
+Shotguns : 4
+Undefined : 54
+
+Year-Month : 2015-05-30  State : Washington 
+Number of Matches : 95
+Handguns : 27
+Rifles : 12
+Shotguns : 2
+Undefined : 54
+
+Year-Month : 2015-05-30  State : West Virginia 
+Number of Matches : 5
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05-30  State : Wisconsin 
+Number of Matches : 142
+Handguns : 20
+Rifles : 20
+Shotguns : 11
+Undefined : 91
+
+Year-Month : 2015-05-30  State : Wyoming
+Number of Matches : 3
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 2

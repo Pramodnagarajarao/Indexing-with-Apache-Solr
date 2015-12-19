@@ -1,0 +1,2000 @@
+
+Year-Month : 2015-01  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-01  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-02  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-03  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-04  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-05  State : Alabama 
+Number of Matches : 72
+Handguns : 24
+Rifles : 13
+Shotguns : 1
+Undefined : 34
+
+Year-Month : 2015-05  State : Alaska 
+Number of Matches : 2
+Handguns : 0
+Rifles : 2
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05  State : Arizona 
+Number of Matches : 52
+Handguns : 14
+Rifles : 16
+Shotguns : 1
+Undefined : 21
+
+Year-Month : 2015-05  State : Arkansas 
+Number of Matches : 30
+Handguns : 6
+Rifles : 7
+Shotguns : 1
+Undefined : 16
+
+Year-Month : 2015-05  State : California 
+Number of Matches : 73
+Handguns : 18
+Rifles : 9
+Shotguns : 5
+Undefined : 41
+
+Year-Month : 2015-05  State : Colorado 
+Number of Matches : 135
+Handguns : 32
+Rifles : 22
+Shotguns : 7
+Undefined : 74
+
+Year-Month : 2015-05  State : Connecticut 
+Number of Matches : 3
+Handguns : 0
+Rifles : 1
+Shotguns : 1
+Undefined : 1
+
+Year-Month : 2015-05  State : Delaware 
+Number of Matches : 6
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05  State : Florida 
+Number of Matches : 131
+Handguns : 36
+Rifles : 26
+Shotguns : 6
+Undefined : 63
+
+Year-Month : 2015-05  State : Georgia 
+Number of Matches : 56
+Handguns : 15
+Rifles : 12
+Shotguns : 6
+Undefined : 23
+
+Year-Month : 2015-05  State : Hawaii 
+Number of Matches : 3
+Handguns : 0
+Rifles : 0
+Shotguns : 0
+Undefined : 3
+
+Year-Month : 2015-05  State : Idaho 
+Number of Matches : 5
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 2
+
+Year-Month : 2015-05  State : Illinois 
+Number of Matches : 57
+Handguns : 18
+Rifles : 13
+Shotguns : 1
+Undefined : 25
+
+Year-Month : 2015-05  State : Indiana 
+Number of Matches : 115
+Handguns : 33
+Rifles : 22
+Shotguns : 8
+Undefined : 52
+
+Year-Month : 2015-05  State : Iowa 
+Number of Matches : 13
+Handguns : 3
+Rifles : 1
+Shotguns : 2
+Undefined : 7
+
+Year-Month : 2015-05  State : Kansas 
+Number of Matches : 61
+Handguns : 17
+Rifles : 14
+Shotguns : 4
+Undefined : 26
+
+Year-Month : 2015-05  State : Kentucky 
+Number of Matches : 66
+Handguns : 22
+Rifles : 11
+Shotguns : 1
+Undefined : 32
+
+Year-Month : 2015-05  State : Louisiana 
+Number of Matches : 10
+Handguns : 5
+Rifles : 5
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05  State : Maine 
+Number of Matches : 2
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05  State : Maryland 
+Number of Matches : 8
+Handguns : 2
+Rifles : 1
+Shotguns : 0
+Undefined : 5
+
+Year-Month : 2015-05  State : Massachusetts 
+Number of Matches : 16
+Handguns : 3
+Rifles : 4
+Shotguns : 2
+Undefined : 7
+
+Year-Month : 2015-05  State : Michigan 
+Number of Matches : 66
+Handguns : 12
+Rifles : 20
+Shotguns : 4
+Undefined : 30
+
+Year-Month : 2015-05  State : Minnesota 
+Number of Matches : 67
+Handguns : 21
+Rifles : 11
+Shotguns : 6
+Undefined : 29
+
+Year-Month : 2015-05  State : Mississippi 
+Number of Matches : 18
+Handguns : 4
+Rifles : 4
+Shotguns : 0
+Undefined : 10
+
+Year-Month : 2015-05  State : Missouri 
+Number of Matches : 113
+Handguns : 27
+Rifles : 19
+Shotguns : 7
+Undefined : 60
+
+Year-Month : 2015-05  State : Montana
+Number of Matches : 14
+Handguns : 4
+Rifles : 4
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05  State : Nebraska 
+Number of Matches : 23
+Handguns : 5
+Rifles : 5
+Shotguns : 2
+Undefined : 11
+
+Year-Month : 2015-05  State : Nevada 
+Number of Matches : 48
+Handguns : 13
+Rifles : 11
+Shotguns : 1
+Undefined : 23
+
+Year-Month : 2015-05  State : New Hampshire 
+Number of Matches : 25
+Handguns : 7
+Rifles : 3
+Shotguns : 1
+Undefined : 14
+
+Year-Month : 2015-05  State : New Jersey 
+Number of Matches : 9
+Handguns : 1
+Rifles : 1
+Shotguns : 2
+Undefined : 5
+
+Year-Month : 2015-05  State : New Mexico 
+Number of Matches : 25
+Handguns : 13
+Rifles : 6
+Shotguns : 0
+Undefined : 6
+
+Year-Month : 2015-05  State : New York 
+Number of Matches : 25
+Handguns : 3
+Rifles : 5
+Shotguns : 2
+Undefined : 15
+
+Year-Month : 2015-05  State : North Carolina 
+Number of Matches : 136
+Handguns : 52
+Rifles : 21
+Shotguns : 2
+Undefined : 61
+
+Year-Month : 2015-05  State : North Dakota 
+Number of Matches : 2
+Handguns : 1
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05  State : Ohio 
+Number of Matches : 193
+Handguns : 63
+Rifles : 34
+Shotguns : 14
+Undefined : 82
+
+Year-Month : 2015-05  State : Oklahoma 
+Number of Matches : 150
+Handguns : 41
+Rifles : 25
+Shotguns : 6
+Undefined : 78
+
+Year-Month : 2015-05  State : Oregon 
+Number of Matches : 96
+Handguns : 16
+Rifles : 14
+Shotguns : 2
+Undefined : 64
+
+Year-Month : 2015-05  State : Pennsylvania
+Number of Matches : 69
+Handguns : 19
+Rifles : 10
+Shotguns : 3
+Undefined : 37
+
+Year-Month : 2015-05  State : Rhode Island 
+Number of Matches : 2
+Handguns : 1
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05  State : South Carolina 
+Number of Matches : 84
+Handguns : 22
+Rifles : 12
+Shotguns : 7
+Undefined : 43
+
+Year-Month : 2015-05  State : South Dakota 
+Number of Matches : 4
+Handguns : 3
+Rifles : 0
+Shotguns : 0
+Undefined : 1
+
+Year-Month : 2015-05  State : Tennessee 
+Number of Matches : 122
+Handguns : 35
+Rifles : 23
+Shotguns : 4
+Undefined : 60
+
+Year-Month : 2015-05  State : Texas 
+Number of Matches : 93
+Handguns : 29
+Rifles : 19
+Shotguns : 3
+Undefined : 42
+
+Year-Month : 2015-05  State : Utah 
+Number of Matches : 5
+Handguns : 0
+Rifles : 1
+Shotguns : 1
+Undefined : 3
+
+Year-Month : 2015-05  State : Vermont 
+Number of Matches : 9
+Handguns : 3
+Rifles : 2
+Shotguns : 0
+Undefined : 4
+
+Year-Month : 2015-05  State : Virginia 
+Number of Matches : 66
+Handguns : 19
+Rifles : 9
+Shotguns : 6
+Undefined : 32
+
+Year-Month : 2015-05  State : Washington 
+Number of Matches : 95
+Handguns : 17
+Rifles : 20
+Shotguns : 5
+Undefined : 53
+
+Year-Month : 2015-05  State : West Virginia 
+Number of Matches : 1
+Handguns : 0
+Rifles : 1
+Shotguns : 0
+Undefined : 0
+
+Year-Month : 2015-05  State : Wisconsin 
+Number of Matches : 88
+Handguns : 16
+Rifles : 16
+Shotguns : 6
+Undefined : 50
+
+Year-Month : 2015-05  State : Wyoming
+Number of Matches : 3
+Handguns : 0
+Rifles : 1
+Shotguns : 1
+Undefined : 1
+
+Year-Month : 2015-06  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-06  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-07  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-08  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-09  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-10  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-11  State : Wyoming
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Alabama 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Alaska 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Arizona 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Arkansas 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : California 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Colorado 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Connecticut 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Delaware 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Florida 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Georgia 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Hawaii 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Idaho 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Illinois 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Indiana 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Iowa 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Kansas 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Kentucky 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Louisiana 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Maine 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Maryland 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Massachusetts 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Michigan 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Minnesota 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Mississippi 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Missouri 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Montana
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Nebraska 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Nevada 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : New Hampshire 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : New Jersey 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : New Mexico 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : New York 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : North Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : North Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Ohio 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Oklahoma 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Oregon 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Pennsylvania
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Rhode Island 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : South Carolina 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : South Dakota 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Tennessee 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Texas 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Utah 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Vermont 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Washington 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : West Virginia 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Wisconsin 
+Number of Matches : 0
+
+Year-Month : 2015-12  State : Wyoming
+Number of Matches : 0

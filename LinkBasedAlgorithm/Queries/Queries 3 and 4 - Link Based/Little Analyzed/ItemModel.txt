@@ -1,0 +1,400 @@
+State : Alabama 
+Number of Matches : 152
+{}
+
+
+State : Alaska 
+Number of Matches : 0
+
+
+State : Arizona 
+Number of Matches : 101
+{}
+
+
+State : Arkansas 
+Number of Matches : 56
+{}
+
+
+State : California 
+Number of Matches : 13
+{}
+
+
+State : Colorado 
+Number of Matches : 108
+{}
+
+
+State : Connecticut 
+Number of Matches : 6
+{}
+
+
+State : Delaware 
+Number of Matches : 2
+{}
+
+
+State : Florida 
+Number of Matches : 274
+{}
+
+
+State : Georgia 
+Number of Matches : 111
+{}
+
+
+State : Hawaii 
+Number of Matches : 2
+{}
+
+
+State : Idaho 
+Number of Matches : 20
+{}
+
+
+State : Illinois 
+Number of Matches : 13
+{}
+
+
+State : Indiana 
+Number of Matches : 216
+{}
+
+
+State : Iowa 
+Number of Matches : 1
+{}
+
+
+State : Kansas 
+Number of Matches : 130
+{}
+
+
+State : Kentucky 
+Number of Matches : 110
+{}
+
+
+State : Louisiana 
+Number of Matches : 0
+
+
+State : Maine 
+Number of Matches : 0
+
+
+State : Maryland 
+Number of Matches : 7
+{}
+
+
+State : Massachusetts 
+Number of Matches : 0
+
+
+State : Michigan 
+Number of Matches : 117
+{}
+
+
+State : Minnesota 
+Number of Matches : 0
+
+
+State : Mississippi 
+Number of Matches : 12
+{}
+
+
+State : Missouri 
+Number of Matches : 13
+{}
+
+
+State : Montana
+Number of Matches : 25
+{}
+
+
+State : Nebraska 
+Number of Matches : 37
+{}
+
+
+State : Nevada 
+Number of Matches : 65
+{}
+
+
+State : New Hampshire 
+Number of Matches : 23
+{}
+
+
+State : New Jersey 
+Number of Matches : 0
+
+
+State : New Mexico 
+Number of Matches : 41
+{}
+
+
+State : New York 
+Number of Matches : 7
+{}
+
+
+State : North Carolina 
+Number of Matches : 284
+{}
+
+
+State : North Dakota 
+Number of Matches : 2
+{}
+
+
+State : Ohio 
+Number of Matches : 3
+{}
+
+
+State : Oklahoma 
+Number of Matches : 168
+{}
+
+
+State : Oregon 
+Number of Matches : 42
+{}
+
+
+State : Pennsylvania
+Number of Matches : 2
+{}
+
+
+State : Rhode Island 
+Number of Matches : 0
+
+
+State : South Carolina 
+Number of Matches : 191
+{}
+
+
+State : South Dakota 
+Number of Matches : 0
+
+
+State : Tennessee 
+Number of Matches : 236
+{}
+
+
+State : Texas 
+Number of Matches : 32
+{"['37 STEELBILT']": 1,
+ "['442 Centennial Airweight']": 1,
+ "['500 Youth']": 1,
+ "['870 Wingmaster']": 1,
+ "['American']": 1,
+ "['BP9CC']": 1,
+ "['Bushmaster Carbon 15 Flat Top Lightweight Carbine 90689']": 1,
+ "['G22 Gen4']": 1,
+ "['GP WASR 10/63']": 1,
+ "['Glock 19 Gen4']": 1,
+ "['Hot Pink Zebra Nano']": 1,
+ "['Hot Purple Nano']": 1,
+ "['Kel-Tec P-3AT 380']": 1,
+ "['M16']": 1,
+ "['Model 27 Gen3']": 1,
+ "['Model 725 .280 REM RARE MODEL']": 1,
+ "['Nomad 22LR']": 1,
+ "['P-07 Duty']": 1,
+ "['PT140Pro']": 1,
+ "['Pink LCP']": 1,
+ "['Pink M&P 9']": 1,
+ "['Ruger LCR 38SP 05401']": 1,
+ "['Sig P938 Ambi Rosewood 9389RGAMBI']": 1,
+ "['Sig Sauer P250 9MM 250C9B']": 1,
+ "['Smith & Wesson Model M&P15-22 AR 811033']": 1,
+ "['Tiffany Blue 19 Gen3']": 1,
+ "['Tiffany Blue Nano']": 1}
+
+
+State : Utah 
+Number of Matches : 2
+{}
+
+
+State : Vermont 
+Number of Matches : 3
+{}
+
+
+State : Virginia 
+Number of Matches : 28
+{}
+
+
+State : Washington 
+Number of Matches : 148
+{}
+
+
+State : West Virginia 
+Number of Matches : 5
+{}
+
+
+State : Wisconsin 
+Number of Matches : 157
+{}
+
+
+State : Wyoming
+Number of Matches : 5
+{}
+
+
+State : Midwest City
+Number of Matches : 0
+
+
+State : Cincinnati
+Number of Matches : 2
+{}
+
+
+State : London
+Number of Matches : 5
+{"['30SF gen3']": 1,
+ "['BP9cc']": 1,
+ "['G22 Gen4']": 1,
+ "['G33']": 1,
+ "['M&P40 Shield']": 1}
+
+
+State : Birmingham
+Number of Matches : 3
+{}
+
+
+State : Orlando
+Number of Matches : 1
+{}
+
+
+State : Minneapolis
+Number of Matches : 1
+{}
+
+
+State : Huntsville
+Number of Matches : 5
+{}
+
+
+State : Jacksonville
+Number of Matches : 4
+{}
+
+
+State : Louisville
+Number of Matches : 5
+{}
+
+
+State : Detroit
+Number of Matches : 0
+
+
+State : Main
+Number of Matches : 12
+{"['19']": 1,
+ "['Cobra Force 12 gauge pump action shotgun']": 1,
+ "['Double Tap Tactical 9mm Pocket Pistol']": 1,
+ "['Hot Pink Nano']": 1,
+ "['Hot Pink Zebra 26 Gen3']": 1,
+ "['LCP 380']": 1,
+ "['PPX 40 SS']": 1,
+ "['Pink M&PC 40']": 1,
+ "['SD9 VE']": 1,
+ "['SR1911 5\\\\\\\\']": 1,
+ "['Tiffany Blue Nano']": 1,
+ "['Walther H&K UZI']": 1}
+
+
+State : San Antonio
+Number of Matches : 4
+{}
+
+
+State : Auburn
+Number of Matches : 2
+{}
+
+
+State : Nashville
+Number of Matches : 8
+{}
+
+
+State : Portland
+Number of Matches : 10
+{}
+
+
+State : Knoxville
+Number of Matches : 12
+{}
+
+
+State : Denver
+Number of Matches : 6
+{}
+
+
+State : Edmond
+Number of Matches : 6
+{}
+
+
+State : Tulsa
+Number of Matches : 54
+{}
+
+
+State : Hampton
+Number of Matches : 21
+{}
+
+
+State : San Diego
+Number of Matches : 7
+{}
+
+
+State : Las Vegas
+Number of Matches : 9
+{}
+
+
+State : Los Angeles
+Number of Matches : 0
+
+
+State : United States
+Number of Matches : 806
+{}
+
+

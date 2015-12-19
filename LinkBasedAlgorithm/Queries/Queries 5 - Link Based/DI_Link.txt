@@ -1,0 +1,36 @@
+Destructive Items : missile
+Number of Matches : 0
+
+Destructive Items : biochemical
+Number of Matches : 0
+
+Destructive Items : uranium
+Number of Matches : 0
+
+Destructive Items : thorium
+Number of Matches : 0
+
+Destructive Items : radium
+Number of Matches : 0
+
+Destructive Items : bomb
+Number of Matches : 1
+
+Destructive Items : grenade
+Number of Matches : 8
+
+Destructive Items : rocket
+Number of Matches : 0
+
+Destructive Items : wmd
+Number of Matches : 4
+
+Destructive Items : poison%20gas
+Number of Matches : 0
+
+Destructive Items : mine
+Number of Matches : 13
+
+Destructive Items : m795%20artillery%20shell
+Number of Matches : 0
+

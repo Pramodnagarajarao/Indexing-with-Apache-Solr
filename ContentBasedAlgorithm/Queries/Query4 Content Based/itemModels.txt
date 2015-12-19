@@ -1,0 +1,907 @@
+State : Alabama 
+Number of Matches : 3163
+{}
+
+
+State : Alaska 
+Number of Matches : 0
+
+
+State : Arizona 
+Number of Matches : 2291
+{}
+
+
+State : Arkansas 
+Number of Matches : 1359
+{}
+
+
+State : California 
+Number of Matches : 581
+{}
+
+
+State : Colorado 
+Number of Matches : 3237
+{}
+
+
+State : Connecticut 
+Number of Matches : 155
+{}
+
+
+State : Delaware 
+Number of Matches : 28
+{}
+
+
+State : Florida 
+Number of Matches : 6579
+{}
+
+
+State : Georgia 
+Number of Matches : 2701
+{}
+
+
+State : Hawaii 
+Number of Matches : 93
+{}
+
+
+State : Idaho 
+Number of Matches : 442
+{}
+
+
+State : Illinois 
+Number of Matches : 230
+{}
+
+
+State : Indiana 
+Number of Matches : 5319
+{}
+
+
+State : Iowa 
+Number of Matches : 51
+{}
+
+
+State : Kansas 
+Number of Matches : 3321
+{}
+
+
+State : Kentucky 
+Number of Matches : 2923
+{}
+
+
+State : Louisiana 
+Number of Matches : 33
+{}
+
+
+State : Maine 
+Number of Matches : 0
+
+
+State : Maryland 
+Number of Matches : 181
+{}
+
+
+State : Massachusetts 
+Number of Matches : 2
+{}
+
+
+State : Michigan 
+Number of Matches : 3254
+{}
+
+
+State : Minnesota 
+Number of Matches : 1
+{}
+
+
+State : Mississippi 
+Number of Matches : 238
+{}
+
+
+State : Missouri 
+Number of Matches : 251
+{}
+
+
+State : Montana
+Number of Matches : 839
+{}
+
+
+State : Nebraska 
+Number of Matches : 1006
+{}
+
+
+State : Nevada 
+Number of Matches : 1608
+{}
+
+
+State : New Hampshire 
+Number of Matches : 665
+{}
+
+
+State : New Jersey 
+Number of Matches : 4
+{}
+
+
+State : New Mexico 
+Number of Matches : 920
+{}
+
+
+State : New York 
+Number of Matches : 117
+{}
+
+
+State : North Carolina 
+Number of Matches : 7369
+{}
+
+
+State : North Dakota 
+Number of Matches : 67
+{}
+
+
+State : Ohio 
+Number of Matches : 163
+{}
+
+
+State : Oklahoma 
+Number of Matches : 4634
+{}
+
+
+State : Oregon 
+Number of Matches : 772
+{}
+
+
+State : Pennsylvania
+Number of Matches : 85
+{}
+
+
+State : Rhode Island 
+Number of Matches : 0
+
+
+State : South Carolina 
+Number of Matches : 4439
+{}
+
+
+State : South Dakota 
+Number of Matches : 0
+
+
+State : Tennessee 
+Number of Matches : 5605
+{}
+
+
+State : Texas 
+Number of Matches : 797
+{"['10/22 Carbine']": 1,
+ "['10/22 Take Down SS TB']": 2,
+ "['10/22 take down and SR22 with threaded barrels']": 1,
+ "['10/22-fs']": 1,
+ "['11']": 2,
+ "['12']": 2,
+ "['12G 500 3 in 1']": 2,
+ "['17 Gen3']": 1,
+ "['17']": 1,
+ "['17C']": 2,
+ "['1860 Army Revolver']": 1,
+ "['1897']": 2,
+ "['19 gen3']": 4,
+ "['19']": 1,
+ "['1902']": 2,
+ "['1911 FS Tactical']": 1,
+ "['1917 Colt Pocket .32']": 2,
+ "['20SF gen3']": 2,
+ "['21 gen3']": 2,
+ "['21SF gen3']": 2,
+ "['22 Gen4']": 2,
+ "['22 gen3']": 1,
+ "['22LR A1']": 1,
+ "['23 Gen3']": 1,
+ "['23C']": 3,
+ "['24']": 2,
+ "['242 Series C']": 2,
+ "['26 Gen3']": 2,
+ "['27 gen3 sub compact']": 1,
+ "['27 gen3']": 1,
+ "['3.3 XDS 45']": 1,
+ "['30 Gen3']": 1,
+ "['30SF gen3']": 2,
+ "['30s Gen3']": 2,
+ "['31 gen3']": 2,
+ "['36 Gen3']": 1,
+ "['37 STEELBILT']": 2,
+ "['41 gen4']": 2,
+ "['42']": 3,
+ "['43']": 3,
+ "['442 Centennial Airweight']": 2,
+ "['442']": 1,
+ "['455 Varmint Evolution']": 1,
+ "['455 Varmint']": 1,
+ "['460 cal.']": 1,
+ "['500 Cruiser 12 Gauge']": 2,
+ "['500 Youth']": 2,
+ "['500c']": 2,
+ "['505 Gibbs']": 1,
+ "['586-4']": 2,
+ "['70 XTR Sporter']": 2,
+ "['700 5R HB']": 1,
+ "['700 BDL']": 1,
+ "['700 SPS .308 with Heavy Barrel']": 2,
+ "['700 Target-Tactical .308']": 2,
+ "['700']": 3,
+ "['702 Plinkster']": 2,
+ "['710']": 2,
+ "['715']": 1,
+ "['760']": 2,
+ "['870 Wingmaster']": 4,
+ "['94 Frontiersmen']": 2,
+ "['94']": 4,
+ "['94AE']": 1,
+ "['97']": 1,
+ "['A Bolt II']": 1,
+ "['A Bolt']": 2,
+ "['A-5 20 Gauge']": 2,
+ "['AM-15']": 1,
+ "['AR-15 5.56']": 1,
+ "['AR-15']": 2,
+ "['AR15']": 1,
+ "['AUTO']": 1,
+ "['American Bolt Action 30-06']": 2,
+ "['American Bolt Action 7mm-08']": 2,
+ "['American Compact BA']": 2,
+ "['American Compact Bolt Action 243 Rifle']": 2,
+ "['American']": 2,
+ "['BOB WHITE 28GA.']": 2,
+ "['BP9CC']": 2,
+ "['BP9cc']": 1,
+ "['Bar']": 2,
+ "['Belgium Made SxS 12GA Scroll Engraved (NOT BROWNING)']": 1,
+ "['Bersa Thunder 380 Duotone THUN380DT']": 2,
+ "['Bersa Thunder 9MM Ultra Compact Pro Series T9DTP13']": 2,
+ "['Bersa Thunder Ultra Compact']": 2,
+ "['Big Boy 44mag']": 2,
+ "['Big Boy Lever Action 45LC']": 2,
+ "['Bodyguard (No Laser)']": 1,
+ "['Bodyguard 380']": 2,
+ "['Browning Shotguns Belgium SXS Shotguns - Belgium Double']": 1,
+ "['Bushmaster Carbon 15 Flat Top Lightweight Carbine 90689']": 2,
+ "['CCP']": 2,
+ "['CITORI']": 1,
+ "['CUSTOM WORK']": 1,
+ "['CW40']": 2,
+ "['CX4 Storm']": 2,
+ "['Citadel M-1 Carbine .22LR (Synthetic)']": 2,
+ "['Citadel M-1 Carbine .22LR']": 2,
+ "['Cobra 32 Derringer C32BR']": 1,
+ "['Cobra 380 Black CA380BB']": 2,
+ "['Cobra 380 Satin/Black CA380SB']": 2,
+ "['Cobra Force 12 gauge pump action shotgun']": 2,
+ "['Complete Hot Pink 19 Gen3 USA']": 2,
+ "['DA']": 2,
+ "['DB3ON']": 1,
+ "['Deceptus Take down AR-15']": 1,
+ "['Derringer']": 2,
+ "['Desert DPM Tan 27 gen3']": 2,
+ "['Desert Digital 27 Gen3']": 2,
+ "['Double Tap Tactical 9mm Pocket Pistol']": 2,
+ "['Elite Carry']": 2,
+ "['Escort Sport TacStock 2']": 1,
+ "['F.I.E. Model E15 .22 LR']": 2,
+ "['FDE PPS']": 2,
+ "['FNS 40']": 1,
+ "['FNS']": 2,
+ "['FNX 45 Tactical']": 1,
+ "['FOX B-SE SERIES H']": 2,
+ "['Frontier Scout']": 1,
+ "['G 380 automatic pistol']": 2,
+ "['G17 gen3']": 1,
+ "['G17gen4']": 2,
+ "['G22 Gen4']": 2,
+ "['G22gen3']": 2,
+ "['G27gen4']": 2,
+ "['G30gen4']": 2,
+ "['G33']": 2,
+ "['GP WASR 10/63']": 2,
+ "['GSG-922SF 22lr, Remington Bucket O Bullets']": 1,
+ "['Glock 17 Gen 4']": 2,
+ "['Glock 19 Gen4']": 2,
+ "['Glock 21 Gen 3']": 2,
+ "['Glock 22 Gen3 PI-22502-03']": 2,
+ "['Glock 22 Gen4 PG2250203']": 2,
+ "['Glock 23 Gen4 40cal 13rd']": 2,
+ "['Glock 26 Gen4']": 1,
+ "['Glock 42']": 2,
+ "['Golden Boy 22lr']": 1,
+ "['Green Zebra LC9 w/Viridian green laser and holster']": 2,
+ "['HSC 1 OF 5000 LIMITED EDITION']": 1,
+ "['Handi Rifle']": 2,
+ "['Hi-Point 380 +P Rated']": 2,
+ "['Hi-Point 40SW +P Rated']": 2,
+ "['Hi-Point 40SW Tactical Carbine 4095TS']": 2,
+ "['Hi-Point 45 48342']": 2,
+ "['Hi-Point 9mm Tactical Carbine TS 995TS']": 2,
+ "['Hi-Point C9 9MM']": 2,
+ "['Hi-Power 9mm']": 2,
+ "['High Power']": 2,
+ "['Hot Pink Nano']": 2,
+ "['Hot Pink Tiger Stripe 19 Gen3']": 2,
+ "['Hot Pink Zebra 26 Gen3']": 2,
+ "['Hot Pink Zebra Nano']": 2,
+ "['Hot Pink Zebra SD9 VE']": 2,
+ "['Hot Pink Zebra Stripe Model 27 Gen3']": 2,
+ "['Hot Pink/White Zebra Nano']": 2,
+ "['Hot Purple Nano']": 1,
+ "['Hot Purple P-11']": 2,
+ "['Hot Purple SD9 VE']": 2,
+ "['Hot Purple Zebra PPS']": 2,
+ "['IN STOCK NOW Hi-Point45 Carbine 4595TS']": 2,
+ "['Jimenez 380 Black']": 2,
+ "['Jimenez JA-22 Black']": 2,
+ "['Jimenez JA-22 Duo Tone']": 2,
+ "['Jimenez JA32 Black']": 2,
+ "['Jimenez JA32 Duo Tone']": 2,
+ "['Jimenez T380 New Model']": 2,
+ "['Jiminez JA25 Black']": 2,
+ "['Jiminez JA25 Duo Tone']": 2,
+ "['Jiminez JA9 Chrome']": 2,
+ "['Jiminez JA9 Satin Finish']": 2,
+ "['KSG Titanium Cerakote']": 2,
+ "['KSG']": 1,
+ "['Kahr Arms CW9 CW9093']": 2,
+ "['Kel-Tec P-11 Tan']": 2,
+ "['Kel-Tec P-3AT 380']": 2,
+ "['Kimel-AP9']": 1,
+ "['LC380']": 6,
+ "['LC9']": 3,
+ "['LC9s 9mm']": 2,
+ "['LC9s']": 4,
+ "['LCP .380']": 2,
+ "['LCP 380']": 2,
+ "['LCP']": 1,
+ "['LDA Carry 9 9mm']": 1,
+ "['LW-15']": 1,
+ "['M 85']": 2,
+ "['M&P .38']": 2,
+ "['M&P .40']": 2,
+ "['M&P 15']": 2,
+ "['M&P 15T']": 1,
+ "['M&P 45 with thumb safety']": 2,
+ "['M&P Shield 9mm']": 2,
+ "['M&P']": 1,
+ "['M&P15-22']": 2,
+ "['M&P40 Shield']": 2,
+ "['M&P9 Shield']": 1,
+ "['M&PC 40']": 1,
+ "['M&PC 9']": 1,
+ "['M11-A1']": 2,
+ "['M16']": 2,
+ "['M1911-A1 CS Tactical']": 2,
+ "['M642 w/Crimson Trace Laser']": 2,
+ "['M77 Hawkeye']": 1,
+ "['M9 Black']": 1,
+ "['MODEL 12']": 2,
+ "['Mark I Grizzly']": 2,
+ "['Mark V Deluxe']": 1,
+ "['Mark V']": 3,
+ "['Mauser 8mm']": 1,
+ "['Maverick Arms by Mossberg Model 88 Special Purpose 12Ga Model 31023']": 2,
+ "['Model 10/22 .22LR']": 1,
+ "['Model 111 7mm']": 1,
+ "['Model 19 Gen3 USA']": 1,
+ "['Model 21 Tournament Grade']": 2,
+ "['Model 26 gen3 sub compact']": 1,
+ "['Model 27 Gen3']": 2,
+ "['Model 41 Gen4']": 2,
+ "['Model 608 .357 MAG']": 1,
+ "['Model 70 1964 .300 WIN Bolt Action']": 1,
+ "['Model 709 Slim 9mm']": 1,
+ "['Model 725 .280 REM RARE MODEL']": 1,
+ "['Model 740 Woodsmaster .30-06']": 1,
+ "['Model 770 .30-06']": 1,
+ "['Model 83 .357 Magnum']": 1,
+ "['Model C22M .22 MAG']": 1,
+ "['Model M22 .22LR']": 1,
+ "['Model P95 9mm']": 1,
+ "['Model SW40VE .40SW']": 2,
+ "['Model USP Compact 9mm']": 2,
+ "['Modern Rifle .223 REM']": 1,
+ "['Mohawk 600']": 1,
+ "['Mossberg Model 500 Special Purpose Persuader 50579']": 2,
+ "['N4']": 2,
+ "['NAVY']": 2,
+ "['NEW BENELII VINCI 12 GA']": 1,
+ "['NIB SR-22']": 1,
+ "['NIGHTHAWK']": 2,
+ "['Nomad 22LR']": 1,
+ "['OD Green and Tan G27 Gen3']": 1,
+ "['P-07 Duty']": 2,
+ "['P22 SS']": 1,
+ "['P22']": 2,
+ "['P220 Elite']": 2,
+ "['P226']": 1,
+ "['P238']": 1,
+ "['P239']": 1,
+ "['P290 Liberty']": 1,
+ "['P345']": 2,
+ "['P380']": 1,
+ "['P3AT']": 1,
+ "['PC707461']": 2,
+ "['PMR-30']": 2,
+ "['PPS']": 2,
+ "['PPX 40 SS']": 2,
+ "['PT 809']": 2,
+ "['PT140Pro']": 2,
+ "['Panther Sport']": 1,
+ "['Para USA Expert Commander 45AP 96748']": 2,
+ "['Pink 27 gen3']": 2,
+ "['Pink Digital 27 gen3']": 1,
+ "['Pink Digital Camo 26 gen3']": 2,
+ "['Pink LC9']": 2,
+ "['Pink LCP']": 6,
+ "['Pink M&P 40']": 1,
+ "['Pink M&P 9']": 2,
+ "['Pink M&PC 40']": 2,
+ "['Pink SR9C SS']": 2,
+ "['Puple M&P 40']": 1,
+ "['Purple LCP']": 2,
+ "['Purple M&P 9']": 2,
+ "['Purple M9']": 2,
+ "['Purple Nano']": 2,
+ "['R16 CF SRC (Carbon Fiber)']": 2,
+ "['Red LC9 with Viridian Green Laser']": 2,
+ "['Redhawk']": 2,
+ "['Reising Target']": 2,
+ "['Rimfire Target .22LR']": 1,
+ "['Ruger LCP380 3701']": 2,
+ "['Ruger LCR 38SP 05401']": 2,
+ "['Ruger LCR-LG Laser Grip 38SP 05402']": 2,
+ "['Ruger SR45 03800']": 2,
+ "['Ruger SR9 SS 3301']": 2,
+ "['Ruger SR9C Compact KSR9C']": 2,
+ "['SAR B6 400429']": 2,
+ "['SCAR 17S']": 1,
+ "['SCCY 9MM CPX-1-CB']": 2,
+ "['SCCY 9mm CPX-2-CB']": 2,
+ "['SCCY 9mm CPX-2-TT']": 2,
+ "['SCCY CPX1 SS 9mm CPX1TT']": 2,
+ "['SD9 VE']": 1,
+ "['SHOTGUN STOCK']": 1,
+ "['SIG SP2022 9mm E2022-9-B']": 2,
+ "['SINGLE PISTOL CASE']": 1,
+ "['SKS']": 2,
+ "['SP101']": 1,
+ "['SR1911 5\\\\\\\\']": 2,
+ "['SR40C SS']": 2,
+ "['SR9 COMPACT']": 1,
+ "['SR9C Black']": 1,
+ "['SUPER CARRY ULTRA +']": 2,
+ "['SUPER CARRY ULTRA HD']": 1,
+ "['SW SD 9VE or SW SD 40VE']": 2,
+ "['Shield 9mm']": 2,
+ "['Shield']": 4,
+ "['Sig P938 Ambi Rosewood 9389RGAMBI']": 2,
+ "['Sig Sauer P250 40 SubCompact 250SC40B']": 2,
+ "['Sig Sauer P250 9MM 250C9B']": 2,
+ "['Silver Hunter']": 1,
+ "['Single Pump Shot .177']": 2,
+ "['Smith & Wesson M&P 9C 206304']": 2,
+ "['Smith & Wesson M&P 9C 209304']": 2,
+ "['Smith & Wesson M&P Shield 40SW 180020']": 2,
+ "['Smith & Wesson M&P Shield 40cal 180020']": 2,
+ "['Smith & Wesson M&P Shield 9mm 180051']": 2,
+ "['Smith & Wesson Model 22A-Sport Series 107412']": 2,
+ "['Smith & Wesson Model M&P15-22 AR 811033']": 2,
+ "['Smith & Wesson SD9 VE 223900']": 2,
+ "['Spikes/PNW Hybred']": 1,
+ "['Springfield XD 9 with XD Gear System XD9101HCSP06']": 2,
+ "['Springfield XD40 Sub Compact XD9802HCSP06']": 2,
+ "['Springfield XDM 9mm 3.8 XDM9389CBHC']": 2,
+ "['Springfield XDM Compact with XD Gear System XDM93845CBHC']": 2,
+ "['Springfield XDM with XD Gear System XDM94545BHC']": 2,
+ "['Springfield XDS 9mm XDS9339B']": 2,
+ "['Stinger P.E. Pen Gun']": 1,
+ "['Super Carry Custom .45ACP']": 1,
+ "['Super Redhawk 5502']": 1,
+ "['Superposed Lightning']": 1,
+ "['T3']": 2,
+ "['TAURUS Model 94 2940029']": 2,
+ "['TS 45ACP']": 2,
+ "['Tan 27 Gen3']": 2,
+ "['Tan Digital Camo 27 gen3']": 2,
+ "['Taurus 709FS Slim 1-709031FS']": 2,
+ "['Taurus PT22 Rosewood 220031R']": 2,
+ "['Thunder 380 Combat']": 2,
+ "['Thunder 380']": 4,
+ "['Thunder 45']": 2,
+ "['Thunder380']": 2,
+ "['Tiffany Blue 19 Gen3']": 1,
+ "['Tiffany Blue 26 Gen3']": 2,
+ "['Tiffany Blue LC380']": 2,
+ "['Tiffany Blue LCP']": 2,
+ "['Tiffany Blue Nano']": 2,
+ "['Tiffany Blue SR9C SS']": 1,
+ "['Tiffany blue LC9']": 1,
+ "['Tiffany blue M&P40C']": 2,
+ "['Tiffany blue Shield 9mm']": 2,
+ "['Tracker 44 .44 MAG']": 1,
+ "['USM4 16\\\\\\\\']": 2,
+ "['Uzi']": 1,
+ "['VINCI 2 3/4 - 3\\\\\\\\']": 1,
+ "['VP9']": 2,
+ "['Venture 30-06']": 2,
+ "['Vest Pocket']": 2,
+ "['Vivid Green Zebra Stripe Glock 19 Gen3']": 2,
+ "['Walther H&K MP5 A5']": 2,
+ "['Walther H&K UZI']": 2,
+ "['Windicator 357 mag']": 2,
+ "['Woodland Tan 19 gen3']": 1,
+ "['XDS 9 SS']": 2,
+ "['XDS']": 3,
+ "['XDs']": 3,
+ "['XM15 ORC M4 Carbine']": 2,
+ "['af10742']": 1,
+ "['black powder']": 2,
+ "['colt goverment (sold out)']": 1,
+ "['double barrel/trigger antique flintlock pistol']": 1,
+ "['lefever h-grade']": 1,
+ "['model number 1873']": 1,
+ "['none']": 4,
+ "['pocket']": 2,
+ "['reminton elliot']": 1,
+ "['supermatic citation militery']": 1,
+ "['the judge']": 1,
+ "['valiar grade 2 20 guage']": 2}
+
+
+State : Utah 
+Number of Matches : 52
+{}
+
+
+State : Vermont 
+Number of Matches : 163
+{}
+
+
+State : Virginia 
+Number of Matches : 829
+{}
+
+
+State : Washington 
+Number of Matches : 4282
+{}
+
+
+State : West Virginia 
+Number of Matches : 225
+{}
+
+
+State : Wisconsin 
+Number of Matches : 4052
+{}
+
+
+State : Wyoming
+Number of Matches : 155
+{}
+
+
+State : Midwest City
+Number of Matches : 0
+
+
+State : Cincinnati
+Number of Matches : 67
+{}
+
+
+State : London
+Number of Matches : 66
+{"['17']": 2,
+ "['19 gen3']": 2,
+ "['20SF gen3']": 2,
+ "['21 gen3']": 2,
+ "['21SF gen3']": 1,
+ "['22 gen3']": 2,
+ "['23 Gen3']": 2,
+ "['27 gen3']": 1,
+ "['30SF gen3']": 2,
+ "['31 gen3']": 2,
+ "['BP9CC']": 2,
+ "['BP9cc']": 2,
+ "['FNS 40']": 2,
+ "['FNS']": 2,
+ "['G17 gen3']": 2,
+ "['G17gen4']": 1,
+ "['G22 Gen4']": 1,
+ "['G22gen3']": 2,
+ "['G27gen4']": 1,
+ "['G30gen4']": 2,
+ "['G33']": 2,
+ "['LC380']": 2,
+ "['LC9']": 1,
+ "['LCP']": 1,
+ "['M&P15-22']": 2,
+ "['M&P40 Shield']": 2,
+ "['M&P9 Shield']": 2,
+ "['Model 41 Gen4']": 1,
+ "['P22']": 2,
+ "['Thunder 380 Combat']": 2,
+ "['Thunder 380']": 4,
+ "['Thunder380']": 2,
+ "['XDS']": 4}
+
+
+State : Birmingham
+Number of Matches : 106
+{}
+
+
+State : Orlando
+Number of Matches : 92
+{}
+
+
+State : Minneapolis
+Number of Matches : 71
+{}
+
+
+State : Huntsville
+Number of Matches : 89
+{}
+
+
+State : Jacksonville
+Number of Matches : 111
+{}
+
+
+State : Louisville
+Number of Matches : 152
+{}
+
+
+State : Detroit
+Number of Matches : 124
+{}
+
+
+State : Main
+Number of Matches : 248
+{"['10/22 Carbine']": 2,
+ "['10/22 Take Down SS TB']": 1,
+ "['12G 500 3 in 1']": 1,
+ "['17 Gen3']": 1,
+ "['17C']": 1,
+ "['19 Gen3']": 1,
+ "['19']": 2,
+ "['1911 FS Tactical']": 2,
+ "['22 Gen4']": 2,
+ "['23C']": 1,
+ "['26 Gen3']": 1,
+ "['30 Gen3']": 2,
+ "['30s Gen3']": 2,
+ "['36 Gen3']": 2,
+ "['41 gen4']": 2,
+ "['42']": 6,
+ "['43']": 3,
+ "['442 Centennial Airweight']": 2,
+ "['455 Varmint Evolution']": 2,
+ "['455 Varmint']": 1,
+ "['500 Cruiser 12 Gauge']": 1,
+ "['700 SPS .308 with Heavy Barrel']": 1,
+ "['702 Plinkster']": 2,
+ "['AM-15']": 1,
+ "['American Bolt Action 30-06']": 2,
+ "['American Bolt Action 7mm-08']": 2,
+ "['American Compact BA']": 2,
+ "['American Compact Bolt Action 243 Rifle']": 2,
+ "['American']": 2,
+ "['Big Boy 44mag']": 2,
+ "['Big Boy Lever Action 45LC']": 2,
+ "['Black Ops Recon 1911']": 1,
+ "['Bodyguard (No Laser)']": 2,
+ "['Bodyguard 380']": 1,
+ "['CCP']": 2,
+ "['CW40']": 2,
+ "['CX4 Storm']": 2,
+ "['Cobra Force 12 gauge pump action shotgun']": 2,
+ "['Complete Hot Pink 19 Gen3 USA']": 2,
+ "['Desert DPM Tan 27 gen3']": 2,
+ "['Desert Digital 27 Gen3']": 2,
+ "['Double Tap Tactical 9mm Pocket Pistol']": 2,
+ "['Elite Carry']": 2,
+ "['Escort Sport TacStock 2']": 2,
+ "['FDE PPS']": 2,
+ "['FNX 45 Tactical']": 2,
+ "['Glock 21 Gen4 45AP Pistol']": 1,
+ "['Golden Boy 22lr']": 2,
+ "['Green Zebra LC9 w/Viridian green laser and holster']": 2,
+ "['Hot Pink Glock 26 gen3 sub compact']": 1,
+ "['Hot Pink Glock 27 Gen3 USA Made']": 1,
+ "['Hot Pink Nano']": 2,
+ "['Hot Pink Tiger Stripe 19 Gen3']": 1,
+ "['Hot Pink Zebra 26 Gen3']": 2,
+ "['Hot Pink Zebra Nano']": 1,
+ "['Hot Pink Zebra SD9 VE']": 2,
+ "['Hot Pink Zebra Stripe Model 27 Gen3']": 2,
+ "['Hot Pink/White Zebra Nano']": 2,
+ "['Hot Purple Nano']": 2,
+ "['Hot Purple P-11']": 2,
+ "['Hot Purple SD9 VE']": 2,
+ "['Hot Purple Zebra PPS']": 1,
+ "['KSG Titanium Cerakote']": 1,
+ "['LC380']": 3,
+ "['LC9s 9mm']": 2,
+ "['LC9s']": 3,
+ "['LCP .380']": 1,
+ "['LCP 380']": 2,
+ "['M&P .40']": 1,
+ "['M&P 45 with thumb safety']": 2,
+ "['M&P 9']": 1,
+ "['M&P Shield 9mm']": 2,
+ "['M&PC 40']": 1,
+ "['M1911-A1 CS Tactical']": 2,
+ "['M642 w/Crimson Trace Laser']": 2,
+ "['M9 Black']": 2,
+ "['Model 19 Gen3 USA']": 2,
+ "['Model 26 gen3 sub compact']": 2,
+ "['Model 27 Gen3']": 2,
+ "['Nano']": 1,
+ "['OD Green and Tan G27 Gen3']": 2,
+ "['P-07 Duty']": 1,
+ "['P-11']": 1,
+ "['P22 SS']": 2,
+ "['P290 Liberty']": 2,
+ "['PMR-30']": 1,
+ "['PPS']": 4,
+ "['PPX 40 SS']": 2,
+ "['Panther Sport']": 2,
+ "['Pink 27 gen3']": 2,
+ "['Pink Digital 27 gen3']": 2,
+ "['Pink Digital Camo 26 gen3']": 1,
+ "['Pink LC9']": 2,
+ "['Pink LCP']": 6,
+ "['Pink M&P 40']": 2,
+ "['Pink M&P 9']": 2,
+ "['Pink M&PC 40']": 2,
+ "['Pink SR9C SS']": 2,
+ "['Puple M&P 40']": 2,
+ "['Purple LCP']": 1,
+ "['Purple M&P 9']": 2,
+ "['Purple M9']": 2,
+ "['Purple Nano']": 2,
+ "['R16 CF SRC (Carbon Fiber)']": 1,
+ "['Red LC9 with Viridian Green Laser']": 2,
+ "['SD9 VE']": 2,
+ "['SP101']": 2,
+ "['SR1911 5\\\\\\\\']": 2,
+ "['SR40C SS']": 1,
+ "['SR9C Black']": 2,
+ "['Shield 9mm']": 2,
+ "['Shield']": 2,
+ "['TS 45ACP']": 2,
+ "['Tan 27 Gen3']": 2,
+ "['Tan Digital Camo 27 gen3']": 1,
+ "['Tiffany Blue 19 Gen3']": 1,
+ "['Tiffany Blue 26 Gen3']": 2,
+ "['Tiffany Blue LC380']": 2,
+ "['Tiffany Blue LCP']": 2,
+ "['Tiffany Blue Nano']": 2,
+ "['Tiffany Blue SR9C SS']": 2,
+ "['Tiffany blue LC9']": 2,
+ "['Tiffany blue M&P40C']": 2,
+ "['Tiffany blue Shield 9mm']": 2,
+ "['USM4 16\\\\\\\\']": 2,
+ "['VP9']": 1,
+ "['Venture 30-06']": 2,
+ "['Vivid Green Zebra Stripe Glock 19 Gen3']": 2,
+ "['Walther H&K MP5 A5']": 2,
+ "['Walther H&K UZI']": 2,
+ "['Windicator 357 mag']": 2,
+ "['Woodland Tan 19 gen3']": 2,
+ "['XDs']": 4,
+ "['XM15 ORC M4 Carbine']": 2}
+
+
+State : San Antonio
+Number of Matches : 115
+{}
+
+
+State : Auburn
+Number of Matches : 103
+{}
+
+
+State : Nashville
+Number of Matches : 182
+{}
+
+
+State : Portland
+Number of Matches : 200
+{}
+
+
+State : Knoxville
+Number of Matches : 306
+{}
+
+
+State : Denver
+Number of Matches : 104
+{}
+
+
+State : Edmond
+Number of Matches : 94
+{}
+
+
+State : Tulsa
+Number of Matches : 1215
+{}
+
+
+State : Hampton
+Number of Matches : 563
+{}
+
+
+State : San Diego
+Number of Matches : 125
+{}
+
+
+State : Las Vegas
+Number of Matches : 105
+{}
+
+
+State : Los Angeles
+Number of Matches : 63
+{}
+
+
+State : United States
+Number of Matches : 20457
+{}
+
+
